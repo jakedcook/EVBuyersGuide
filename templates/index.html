@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>index</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/pageStyle.css') }}">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="pageStyle.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+  <div class="parallax">
+    <div class="container-fluid">
+      <div class="row content">
+        <div class="col-sm-3">
+          <h2>EV Buyers Guide</h2>
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Enter Your State">
+            <div class="input-group-btn">
+              <button class="btn btn-default" type="submit">
+                <i class="glyphicon glyphicon-search"></i>
+              </button>
+            </div>
+          </div>
+            <ul class="nav nav-pills nav-stacked">
+              <li class="active"><a href="{{ url_for('index') }}">Home</a></li>
+              <li><a href="https://www.epa.gov/">EPA Home</a></li>
+              <li><a href="https://www.tesla.com/">Tesla Home</a></li>
+              <li><a href="https://www.toyota.com/">Toyota Home</a></li>
+              <li><a href="https://www.chevrolet.com/">Chevy Home</a></li>
+              <li><a href="https://www.honda.com/">Honda Home</a></li>
+            </ul><br>
+        </div>
+      <br>
+    
+    <div class="col-sm-9">
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="well">
+            <h4>Average EV CO2</h4>
+            <p>(insert number from data)</p> 
+          </div>
+        </div>
+
+        <div class="col-sm-6">
+          <div class="well">
+            <h4>Average Hybrid CO2</h4>
+            <p>(insert number from data)</p> 
+          </div>
+        </div>
+
+        <div class="col-sm-6">
+          <div class="well">
+            <h4>Average EV MPG</h4>
+            <p>(insert number from data)</p> 
+          </div>
+        </div>
+
+        <div class="col-sm-6">
+          <div class="well">
+            <h4>Average Hybrid MPG</h4>
+            <p>(insert number from data)</p> 
+          </div>
+        </div>
+      </div>
+      
+      <div class="jumbotron">
+          <h4>US Map of EV co2 choropleth</h4>
+          <p>(insert choropleth here)</p>
+      </div>
+
+      <div class="jumbotron">
+        <h4>Fuel Efficient Leader Board</h4>
+        <p>(insert table here)</p>
+        <p>manuf. model price mpg</p>
+      </div>
+    </div>
+  </div>
+  </div>
+
+</body>
+<style>
+
+</style>
+</html>

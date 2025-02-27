@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+    color:whitesmoke;
+
+}
+.parallax {
+
+    height: 100%;
+
+    min-height: 100vh;
+
+    background-color: rgb(46, 7, 88);
+    background-size: cover;
+    background-repeat: repeat;
+}
+.col-sm-9 {
+    color: blueviolet;
+
+}
+
+.col-sm-3 {
+    height: auto;
+    scroll-padding-top: 50px;
+}

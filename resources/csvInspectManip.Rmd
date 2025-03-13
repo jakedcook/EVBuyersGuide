@@ -1,0 +1,280 @@
+---
+title: "CSVInspect"
+output: html_document
+date: "2025-02-27"
+---
+
+```{r}
+library(tidyverse)
+
+vehicleData = read.csv("vehicles.csv")
+emissionsData = read.csv("1970-2022StateCO2Emissions.csv")
+
+head(vehicleData)
+head(emissionsData)
+```
+```{r}
+# the vehicle data set has a lot of extra information, lets only keep the relevant information 
+vehicleData2022 = vehicleData %>%
+  select(city08U, cityA08U, highway08U, highwayA08U, comb08U, combA08U, co2TailpipeGpm, co2TailpipeAGpm, make, model, year, cityE, combE, highwayE, fuelType) %>%
+  filter(year == 2022 )
+
+
+colnames(vehicleData2022)[1] = "SFVCityMPG"
+colnames(vehicleData2022)[2] = "DFVCityMPG"
+colnames(vehicleData2022)[3] = "SFVHighwayMPG"
+colnames(vehicleData2022)[4] = "DFVHighwayMPG"
+colnames(vehicleData2022)[5] = "SFCombinedMPG"
+colnames(vehicleData2022)[6] = "DFVCombinedMPG"
+colnames(vehicleData2022)[7] = "SFVCO2Gpm"
+colnames(vehicleData2022)[8] = "DFVCO2Gpm"
+
+
+# lets get the electric vehicles from this data set, which would be a 0 for tailpipe emissions in both single and dual fuel co2gpm columns 
+electricVehicles2022 = vehicleData2022[vehicleData2022$fuelType == "Electricity", ]
+
+# get relevant data for only electric vehicles with empty columns that will be filled via the state data
+electricVehicles2022 = electricVehicles2022 %>%
+  select(make, model, year, fuelType, cityE, highwayE, combE, SFVCO2Gpm, SFVCityMPG, SFVHighwayMPG, SFCombinedMPG)
+
+# the cityE, highwayE, and combE are in kw-hours per 100 miles, but I want to know the effect of 1 kWh so I will make new columbs to handle this data
+electricVehicles2022 = electricVehicles2022 %>%
+  mutate(cityMpkWh = 100 / cityE) %>%
+  mutate(highwayMpKwh = 100 / highwayE) %>%
+  mutate(combMpKwh = 100 / combE)
+
+# now that that is done, lets make our final table with only the information that we need 
+electricVehicles2022 = electricVehicles2022 %>%
+  select(make, model, year, fuelType, cityMpkWh, highwayMpKwh, combMpKwh, SFVCO2Gpm)
+colnames(electricVehicles2022)[8] = "gCo2pM"
+
+
+# now we can go back and refine our data for non electric vehicles 
+nonElectricVehicleData2022 = vehicleData2022[vehicleData2022$fuelType != "Electricity", ]
+
+# dropping the dual fuel grams of co2 per mile since it is rarely used only 17 times, we will use the value from the single fuel grams of co2 per mile
+# also going to remove the hydrogen vehicles as we have not accounted for pollution from hydrogen acquisition like we have electricity 
+nonElectricVehicleData2022 = nonElectricVehicleData2022 %>%
+  select(make, model, year, fuelType, SFVCityMPG, SFVHighwayMPG, SFCombinedMPG, SFVCO2Gpm) %>%
+  filter(fuelType != "Hydrogen")
+
+colnames(nonElectricVehicleData2022)[5] = "cityMPG"
+colnames(nonElectricVehicleData2022)[6] = "highwayMPG"
+colnames(nonElectricVehicleData2022)[7] = "combinedMPG"
+colnames(nonElectricVehicleData2022)[8] = "gCo2pM"
+  
+  
+```
+
+
+
+
+
+```{r}
+# clean and mutate the data to get the information we want
+
+emissionsData$X2022 = as.numeric(as.character(emissionsData$X2022))
+stateData2022 = emissionsData %>%
+  select(State, X2022)
+
+# now we need to convert the million tons of C02 into grams of c02
+stateData2022 = stateData2022 %>%
+  mutate(gCo2 = X2022 * 1.1e7) %>%
+  mutate(gCo2pkWh = 0)
+
+
+head(stateData2022)
+colnames(stateData2022)[2] = "millionTonsOfCO2"
+
+head(stateData2022)
+```
+```{r}
+# data set form the eia for electricity generation from 2022
+
+electricityGeneration2022 = read.csv("stateGeneration2022.csv")
+
+
+electricityGeneration2022 = electricityGeneration2022 %>%
+  mutate(netKWhGeneration = NetGeneration.MWh. * 1000)
+
+head(electricityGeneration2022)
+```
+
+
+```{r}
+# lets create some visualizations and split the states into regions 
+# the us census bureau divides the US into west, midwest, south and north. So we will follow this division
+westData2022 = stateData2022 %>%
+  filter(State %in% c("Arizona", "Colorado", "Idaho", "Montana", "Nevada", 
+                      "New Mexico", "Utah", "Wyoming", "Alaska", "California", 
+                      "Hawaii", "Oregon", "Washington"))
+
+midWestData2022 = stateData2022 %>%
+  filter(State %in% c("Illinois", "Indiana", "Michigan", "Ohio", "Wisconsin", "Iowa", "Kansas", "Minnesota", "Missouri",
+                      "Nebraska", "North Dakota", "South Dakota"))
+
+southData2022 = stateData2022 %>%
+  filter(State %in% c("Delaware", "Florida", "Georgia", "Maryland", "North Carolina", "South Carolina", "Virginia",
+                      "West Virginia", "Alabama", "Kentucky", "Mississippi", "Tennessee", "Arkansas", "Louisiana",
+                      "Oklahoma", "Texas", "District of Columbia"))
+
+northData2022 = stateData2022 %>%
+  filter(State %in% c("Connecticut", "Maine", "Massachusetts", "New Hampshire", "Rhode Island", "Vermont",
+                      "New Jersey", "New York", "Pennsylvania"))
+
+# to ensure all data was correctly divided 
+sum(length(westData2022$State)) + sum(length(midWestData2022$State)) + sum(length(southData2022$State)) + sum(length(northData2022$State))
+```
+
+
+```{r}
+# so now lets create some plots of grams of co2 emitted by each region 
+emissionsRegionPlot <- function(data, region_name) {
+  ggplot(data, aes(x = reorder(State, -gCo2), y = gCo2, fill = State)) +
+    geom_bar(stat = "identity") +
+    coord_flip() +  # Flip coordinates for better readability
+    theme_minimal() +
+    labs(title = paste(region_name, "Region: CO2 Emissions by State"),
+         x = "State",
+         y = "Grams of CO2 Emitted") +
+    theme(legend.position = "none")  # Hide legend for better visualization
+}
+
+# Plot each region
+emissionsRegionPlot(westData2022, "West")
+emissionsRegionPlot(midWestData2022, "Midwest")
+emissionsRegionPlot(southData2022, "South")
+emissionsRegionPlot(northData2022, "North")
+```
+```{r}
+# now I am going to do the same thing but with electricity generation 
+# splitting these into the same regions above 
+westGenerationData2022 = electricityGeneration2022 %>%
+  filter(State %in% c("Arizona", "Colorado", "Idaho", "Montana", "Nevada", 
+                      "New Mexico", "Utah", "Wyoming", "Alaska", "California", 
+                      "Hawaii", "Oregon", "Washington"))
+
+midWestGenerationData2022 = electricityGeneration2022 %>%
+  filter(State %in% c("Illinois", "Indiana", "Michigan", "Ohio", "Wisconsin", "Iowa", "Kansas", "Minnesota", "Missouri",
+                      "Nebraska", "North Dakota", "South Dakota"))
+
+southGenerationData2022 = electricityGeneration2022 %>%
+  filter(State %in% c("Delaware", "Florida", "Georgia", "Maryland", "North Carolina", "South Carolina", "Virginia",
+                      "West Virginia", "Alabama", "Kentucky", "Mississippi", "Tennessee", "Arkansas", "Louisiana",
+                      "Oklahoma", "Texas", "District of Columbia"))
+
+northGenerationData2022 = electricityGeneration2022 %>%
+  filter(State %in% c("Connecticut", "Maine", "Massachusetts", "New Hampshire", "Rhode Island", "Vermont",
+                      "New Jersey", "New York", "Pennsylvania"))
+
+# to ensure all data was correctly divided 
+sum(length(westGenerationData2022$State)) + sum(length(midWestGenerationData2022$State)) + sum(length(southGenerationData2022$State)) + sum(length(northGenerationData2022$State))
+```
+```{r}
+# now I can create the same set of plots as above, but for electricity generation 
+generationRegionPlot = function(data, region_name) {
+  ggplot(data, aes(x = reorder(State, -netKWhGeneration), y = netKWhGeneration, fill = State)) +
+    geom_bar(stat = "identity") +
+    coord_flip() +  # Flip coordinates for better readability
+    theme_minimal() +
+    labs(title = paste(region_name, "Region: Net kWh Generation by State"),
+         x = "State",
+         y = "KWh Generated") +
+    theme(legend.position = "none")  # Hide legend for better visualization
+}
+
+# Plot each region
+generationRegionPlot(westGenerationData2022, "West")
+generationRegionPlot(midWestGenerationData2022, "Midwest")
+generationRegionPlot(southGenerationData2022, "South")
+generationRegionPlot(northGenerationData2022, "North")
+```
+```{r}
+# now plotting side by side by region 
+library(patchwork)
+
+emissionsRegionPlot(northData2022, "North") / generationRegionPlot(northGenerationData2022, "North")
+emissionsRegionPlot(southData2022, "South") / generationRegionPlot(southGenerationData2022, "South")
+emissionsRegionPlot(midWestData2022, "Midwest") / generationRegionPlot(midWestGenerationData2022, "MidWest")
+emissionsRegionPlot(westData2022, "West") / generationRegionPlot(westGenerationData2022, "West")
+```
+```{r}
+# now that I have these graphs split up and visualized, I really need to join the generation and emission data set on state
+finalElectricityData2022 = merge(stateData2022, electricityGeneration2022, by="State")
+head(finalElectricityData2022)
+
+# now we can get the value for the grams of c02 per kilowatt hour for each state 
+finalElectricityData2022 = finalElectricityData2022 %>%
+  mutate(gCo2pkWh = gCo2 / netKWhGeneration)
+
+head(finalElectricityData2022)
+
+# now I am going to rearrange the columns 
+finalElectricityData2022 = finalElectricityData2022 %>%
+  select(State, millionTonsOfCO2, gCo2, gCo2pkWh, netKWhGeneration, AverageRetailPrice.cents.kWh., TotalRetailSales.MWh.,
+         NetGeneration.MWh., NetSummerCapacity.MW.)
+
+head(finalElectricityData2022)
+```
+```{r}
+# so now I would like to add a variable of efficiency 
+# basically how much can you generate, with the least amount of co2 
+mingCo2pkWh = min(finalElectricityData2022$gCo2pkWh, na.rm = TRUE)
+maxgCo2pkWh = max(finalElectricityData2022$gCo2pkWh, na.rm = TRUE)
+
+finalElectricityData2022 = finalElectricityData2022 %>%
+  mutate(EfficiencyScore = 100 * (1 - (gCo2pkWh - mingCo2pkWh) / (maxgCo2pkWh - mingCo2pkWh))) %>%
+  select(State, EfficiencyScore, gCo2pkWh, netKWhGeneration, gCo2, millionTonsOfCO2, AverageRetailPrice.cents.kWh., 
+         TotalRetailSales.MWh., NetSummerCapacity.MW., NetGeneration.MWh.)
+
+head(finalElectricityData2022)
+```
+Now with this data, I can automate the efficiency based on the users input. So when the user says what state they want to see, it will fill the values for grams per mile of the electric vehicles with the formula gCo2/Kwh divided by miles/Kwh and this will show the user how electric vehicles perform in this state compared to other efficient vehicles. 
+```{r}
+# no we can create an efficiency scale based on the region 
+westEfficiencyData2022 = finalElectricityData2022 %>%
+  filter(State %in% c("Arizona", "Colorado", "Idaho", "Montana", "Nevada", 
+                      "New Mexico", "Utah", "Wyoming", "Alaska", "California", 
+                      "Hawaii", "Oregon", "Washington"))
+
+midWestEfficiencyData2022 = finalElectricityData2022 %>%
+  filter(State %in% c("Illinois", "Indiana", "Michigan", "Ohio", "Wisconsin", "Iowa", "Kansas", "Minnesota", "Missouri",
+                      "Nebraska", "North Dakota", "South Dakota"))
+
+southEfficiencyData2022 = finalElectricityData2022 %>%
+  filter(State %in% c("Delaware", "Florida", "Georgia", "Maryland", "North Carolina", "South Carolina", "Virginia",
+                      "West Virginia", "Alabama", "Kentucky", "Mississippi", "Tennessee", "Arkansas", "Louisiana",
+                      "Oklahoma", "Texas", "District of Columbia"))
+
+northEfficiencyData2022 = finalElectricityData2022 %>%
+  filter(State %in% c("Connecticut", "Maine", "Massachusetts", "New Hampshire", "Rhode Island", "Vermont",
+                      "New Jersey", "New York", "Pennsylvania"))
+
+efficiencyRegionPlot = function(data, region_name) {
+  ggplot(data, aes(x = reorder(State, -EfficiencyScore), y = EfficiencyScore, fill = State)) +
+    geom_bar(stat = "identity") +
+    coord_flip() +  # Flip coordinates for better readability
+    theme_minimal() +
+    labs(title = paste(region_name, "Region: Clean Electricity Efficiency by State"),
+         x = "State",
+         y = "Efficiency") +
+    theme(legend.position = "none")  # Hide legend for better visualization
+}
+
+efficiencyRegionPlot(southEfficiencyData2022, "West")
+efficiencyRegionPlot(midWestEfficiencyData2022, "Midwest")
+efficiencyRegionPlot(southEfficiencyData2022, "South")
+efficiencyRegionPlot(northEfficiencyData2022, "North")
+
+```
+
+
+```{r}
+# after cleaning and manipulating the data, we will now export them as csv's to import into sql 
+write_csv(nonElectricVehicleData2022, "vehicleData2022.csv")
+write_csv(stateData2022, "stateEmissionsData2022.csv")
+write_csv(electricityGeneration2022, "stateGenerationData2022.csv")
+write_csv(electricVehicles2022, "electricVehicleData2022.csv")
+write_csv(finalElectricityData2022, "completeStateData2022")
+```
+

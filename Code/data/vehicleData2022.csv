@@ -1,0 +1,1228 @@
+make,model,year,fuelType,cityMPG,highwayMPG,combinedMPG,gCo2pM
+Honda,Odyssey,2022,Regular,19.4381,27.7882,22.4775,394
+Kia,Stinger AWD,2022,Premium,20.5219,28.8967,23.5997,380
+Kia,Stinger RWD,2022,Premium,21.6699,31.5813,25.2336,355
+Kia,Stinger AWD,2022,Premium,17.2255,24.3844,19.8476,451
+Kia,Stinger RWD,2022,Premium,17.7679,25.2069,20.4889,437
+Kia,Carnival,2022,Regular,19.4307,26.1963,21.9859,407
+Acura,MDX FWD,2022,Premium,19,26.3231,22.2878,411
+Hyundai,Tucson FWD,2022,Regular,25.8151,32.7045,28.5185,314
+Mitsubishi,Eclipse Cross 2WD,2022,Regular,25,27.9039,26,338
+Mitsubishi,Eclipse Cross ES 2WD,2022,Regular,26.2251,29,27,327
+Acura,MDX AWD,2022,Premium,18.6331,25,21.2158,423
+Mitsubishi,Eclipse Cross 4WD,2022,Regular,24.5536,26.383,25.3444,347
+Mitsubishi,Eclipse Cross ES 4WD,2022,Regular,25.0375,27.6604,26.1535,337
+Genesis,G70 RWD,2022,Premium,17.5272,26.508,20.68,433
+Kia,Sportage FWD,2022,Regular,20.1673,27.6137,22.9526,392
+Kia,Sportage FWD,2022,Regular,22.9288,30.1582,25.7012,350
+Mitsubishi,Outlander 2WD,2022,Regular,24.468,31.2329,27.1104,328
+Genesis,GV70 AWD,2022,Premium,18.6274,24.6864,20.9402,428
+Hyundai,Tucson AWD,2022,Regular,23.6043,28.6585,25.639,349
+Kia,Sportage AWD,2022,Regular,19.3663,24.4967,21.3814,421
+Kia,Sportage AWD,2022,Regular,21.5261,25.5258,23.1591,389
+Mitsubishi,Outlander 4WD,2022,Regular,24.4886,30,26,342
+Hyundai,Kona FWD,2022,Regular,29.42,34.6314,31.5569,284
+Hyundai,Kona FWD,2022,Regular,29.5049,35.3492,31.8764,281
+Hyundai,Kona AWD,2022,Regular,26.8545,31.7592,28.8601,311
+Hyundai,Kona AWD,2022,Regular,27.6734,32.7817,29.7602,301
+MINI,Cooper Convertible,2022,Premium,28.7217,38.1457,32.3142,273
+MINI,Cooper Convertible,2022,Premium,27.2492,37.3215,31.0159,284
+MINI,Cooper S Convertible,2022,Premium,22.7755,32.5771,26.342,335
+BMW,M8 Competition Coupe,2022,Premium,14.5189,21.1641,16.9079,522
+BMW,M8 Competition Convertible,2022,Premium,14.5189,21.1641,16.9079,522
+MINI,Cooper Hardtop 2 door,2022,Premium,28.7217,38.1457,32.3142,273
+MINI,Cooper Hardtop 2 door,2022,Premium,27.2492,37.3215,31.0159,284
+MINI,Cooper Hardtop 4 door,2022,Premium,28.7217,38.1457,32.3142,273
+MINI,Cooper Hardtop 4 door,2022,Premium,27.2492,37.3215,31.0159,284
+MINI,Cooper S Hardtop 2 door,2022,Premium,22.937,33.3787,26.6948,331
+MINI,Cooper S Hardtop 4 door,2022,Premium,22.937,33.3787,26.6948,331
+MINI,John Cooper Works Hardtop 2 door,2022,Premium,21.9456,31.2801,25.3498,348
+Genesis,G70 AWD,2022,Premium,17.0725,25.3646,20.0173,447
+BMW,X2 xDrive28i,2022,Premium,23.9153,31.3108,26.7595,331
+BMW,X2 M35i,2022,Premium,23.4408,30.2672,26.0886,339
+BMW,M5 CS Sedan,2022,Premium,14.5189,21.1641,16.9079,522
+BMW,M8 Competition Gran Coupe,2022,Premium,14.5189,21.1641,16.9079,522
+MINI,Cooper Countryman,2022,Premium,26.099,33.0763,28.8363,306
+MINI,Cooper Countryman All4,2022,Premium,23.0934,30.4552,25.912,340
+MINI,Cooper S Clubman,2022,Premium,22.7755,32.5771,26.342,335
+Hyundai,Tucson Hybrid,2022,Regular,37.3332,35.7681,36.6123,245
+Hyundai,Tucson Hybrid Blue,2022,Regular,37.5943,37.9043,37.7332,238
+BMW,M850i xDrive Coupe,2022,Premium,17,25,20,442
+BMW,M850i xDrive Convertible,2022,Premium,16.6833,24.3827,19.4466,454
+BMW,M850i xDrive Gran Coupe,2022,Premium,16.6833,24.3827,19.4466,454
+BMW,Alpina B8 Gran Coupe,2022,Premium,16.6833,24.3827,19.4466,454
+BMW,750i xDrive Sedan,2022,Premium,16.6833,24.3827,19.4466,454
+BMW,Alpina B7 xDrive,2022,Premium,16.6833,24.3827,19.4466,454
+Buick,Encore FWD,2022,Regular,24,32,27,329
+Chevrolet,Trax FWD,2022,Regular,24,32,27,329
+Buick,Encore AWD,2022,Regular,23,30,26,342
+Chevrolet,Trax AWD,2022,Regular,23,30,26,342
+MINI,Cooper S Convertible,2022,Premium,26.5817,36.0296,30.138,293
+MINI,John Cooper Works Convertible,2022,Premium,24.4538,32.5267,27.5283,319
+BMW,840i Coupe,2022,Premium,22.7495,29.8444,25.4747,347
+BMW,840i xDrive Coupe,2022,Premium,20.2587,27.1226,22.8623,388
+BMW,840i Convertible,2022,Premium,21.9399,28.6417,24.5219,360
+BMW,840i xDrive Convertible,2022,Premium,20.2587,27.1226,22.8623,388
+MINI,Cooper S Hardtop 2 door,2022,Premium,27.7121,37.8108,31.4977,280
+MINI,Cooper S Hardtop 4 door,2022,Premium,27.7121,37.8108,31.4977,280
+MINI,John Cooper Works Hardtop 2 door,2022,Premium,25.2412,34.0132,28.5552,308
+Hyundai,Veloster N,2022,Premium,19.5776,27.2801,22.4271,400
+Hyundai,Veloster N,2022,Premium,22.2427,28.4246,24.6557,363
+BMW,X2 sDrive28i,2022,Premium,23.7118,31.6597,26.7317,330
+BMW,840i Gran Coupe,2022,Premium,21.9399,28.6417,24.5219,360
+BMW,840i xDrive Gran Coupe,2022,Premium,20.2587,27.1226,22.8623,388
+MINI,Cooper S Clubman,2022,Premium,25.4241,34.945,28.9767,304
+MINI,Cooper S Countryman,2022,Premium,24.3683,32.6618,27.5119,321
+MINI,Cooper S Countryman All4,2022,Premium,22.6786,31.1662,25.846,341
+MINI,Cooper S Clubman All4,2022,Premium,23.1748,31.9376,26.4392,333
+MINI,John Cooper Works Clubman All4,2022,Premium,23.1741,30.8526,26.096800000000002,339
+MINI,JCW Countryman All4,2022,Premium,23,30.2233,26.1323,343
+BMW,740i Sedan,2022,Premium,21.9399,28.6417,24.5219,360
+BMW,740i xDrive Sedan,2022,Premium,20.2587,27.1226,22.8623,388
+Genesis,G90 AWD,2022,Premium,16.9285,24.0365,19.527,460
+Genesis,G90 RWD,2022,Premium,16.779,24.2996,19.494,459
+Genesis,G90 AWD,2022,Premium,15.6519,23.244,18.3489,488
+Genesis,G90 RWD,2022,Premium,15.8028,23.7068,18.5923,481
+Subaru,Legacy AWD,2022,Regular,26.8694,35.1445,30.0538,295
+Subaru,Legacy AWD,2022,Regular,23.6674,32.3515,26.919,330
+Buick,Encore GX FWD,2022,Regular,29.42,30.8899,30.0638,296
+Buick,Encore GX FWD,2022,Regular,28.5494,31.7115,29.8906,297
+Chevrolet,Trailblazer FWD,2022,Regular,29.42,30.8899,30.0638,296
+Chevrolet,Trailblazer FWD,2022,Regular,29.1846,32.8759,30.7376,289
+Kia,Seltos FWD,2022,Regular,29.3533,34.5703,31.4919,283
+Buick,Encore GX AWD,2022,Regular,26.2388,28.5501,27.2308,324
+Chevrolet,Trailblazer AWD,2022,Regular,26,30,28.3477,313
+Genesis,GV70 AWD,2022,Premium,19.4394,25.6735,21.8241,408
+Genesis,GV70 AWD,2022,Premium,21.9341,28.0392,24.3166,368
+Kia,Seltos AWD,2022,Regular,25.0648,29.9076,27.0347,331
+Kia,Seltos AWD,2022,Regular,26.8552,30.9153,28.542,314
+Subaru,Outback AWD,2022,Regular,26.1042,32.9376,28.7922,308
+Subaru,Outback AWD,2022,Regular,23.2447,29.8444,25.8134,343
+Subaru,Outback Wilderness AWD,2022,Regular,21.6093,26.3231,23.5033,377
+BMW,M760i xDrive Sedan,2022,Premium,13.2097,19.7595,15.5255,570
+Infiniti,QX55 AWD,2022,Premium,22,28.4195,24.9063,364
+Chevrolet,Malibu,2022,Premium,21.9811,33.0674,25.8866,342
+Chevrolet,Malibu,2022,Regular,29,35.8627,32.1418,275
+Kia,K5,2022,Regular,28.5494,37.8335,32.0934,277
+Kia,K5,2022,Regular,26.8082,37.2533,30.679,292
+Kia,K5 AWD,2022,Regular,25.2729,33.2803,28.3415,316
+Kia,K5,2022,Regular,23.7569,32.1794,26.9286,332
+Volkswagen,Taos,2022,Regular,28.0777,35.8485,31.1126,286
+Volkswagen,Taos 4motion,2022,Regular,24.8563,31.7913,27.5619,323
+Land Rover,Range Rover Sport,2022,Premium,16.7042,21.9137,18.7053,474
+Land Rover,Range Rover Sport SVR,2022,Premium,14.5136,19.6238,16.4401,540
+Land Rover,Range Rover Sport P360 MHEV,2022,Premium,18.5204,23.8248,20.5825,433
+Land Rover,Range Rover Sport P400 MHEV,2022,Premium,18.5204,23.8248,20.5825,433
+Land Rover,Defender 110 MHEV,2022,Premium,17.4105,21.7626,19.1322,462
+Land Rover,Defender 90 MHEV,2022,Premium,17.4105,21.7626,19.1322,462
+Land Rover,Defender 110,2022,Premium,14.2845,18.6021,15.9505,563
+Chevrolet,Spark,2022,Regular,30.4158,37.8932,33.3799,266
+Chevrolet,Spark ACTIV,2022,Regular,30.4158,37,33.3799,266
+Chevrolet,Spark,2022,Regular,29.2865,37.6694,32.5457,273
+Chevrolet,Spark ACTIV,2022,Regular,29.2865,37,32,278
+Genesis,G70 AWD,2022,Premium,20.3367,28.3027,23.286,385
+Genesis,G70 RWD,2022,Premium,20.8077,30.5975,24.3075,367
+Kia,Soul,2022,Regular,27.6028,33.2191,29.8758,301
+Kia,Soul Eco dynamics,2022,Regular,28.818,35.1195,31.3493,287
+Kia,Soul,2022,Regular,26.914,31.5033,28.8021,309
+Ford,Transit Connect Van FWD,2022,Regular,19.5853,26.3879,22.1555,401
+Ford,Transit Connect Wagon LWB FWD,2022,Regular,19.5124,26,22.1652,404
+Ford,Transit Connect USPS,2022,Regular,19.8767,26.7115,22.4632,396
+Ford,Transit Connect Van FWD,2022,Regular,23.9831,26.5152,25.06,355
+Ford,Transit Connect Van FFV,2022,Gasoline or E85,23.9682,26.501,25.0454,355
+Ford,Transit Connect Wagon LWB FWD,2022,Regular,23.5971,28.4471,25.5579,347
+Ford,Transit Connect Wagon LWB FFV,2022,Gasoline or E85,23.5971,28.4471,25.5579,347
+Land Rover,Discovery,2022,Premium,19.3318,22.2428,20.5416,436
+Land Rover,Defender 110,2022,Premium,16.6221,20.1674,18.05,492
+Land Rover,Defender 90,2022,Premium,17.8574,20.7578,19.0555,466
+Land Rover,Defender 90,2022,Premium,14.8182,19.0116,16.4511,545
+Honda,Insight Touring,2022,Regular,51.2457,44.5034,47.975,184
+Honda,Insight,2022,Regular,54.9485,48.7657,51.9827,170
+Nissan,Pathfinder 2WD,2022,Regular,20.9633,25.8714,22.92,386
+Nissan,Pathfinder 4WD,2022,Regular,20.7463,26.7589,23.08,384
+Land Rover,Discovery MHEV,2022,Premium,18.445,24.0689,20.6123,435
+Nissan,Pathfinder 4WD Platinum,2022,Regular,20.3124,24.7605,22.0989,399
+Hyundai,Sonata Hybrid,2022,Regular,44.6244,50.8517,47.2269,189
+Hyundai,Sonata Hybrid Blue,2022,Regular,50.0265,54.3055,51.8655,172
+Buick,Envision FWD,2022,Regular,23.5267,31,26,341
+Cadillac,XT4 FWD,2022,Premium,23.5267,30,26,341
+Kia,Telluride FWD,2022,Regular,20.0948,26.4527,22.5318,395
+Buick,Envision AWD,2022,Regular,22,29,25,350
+Cadillac,XT4 AWD,2022,Premium,22,29,24,364
+Hyundai,Palisade FWD,2022,Regular,19.2929,26.4664,21.9729,407
+Hyundai,Palisade AWD,2022,Regular,19.0736,24.431,21.1618,426
+MINI,Cooper SE Countryman All4,2022,Premium and Electricity,29.1529,29.8444,29.4601,175
+Hyundai,Elantra,2022,Regular,30.7723,40.8112,34.6026,257
+Hyundai,Elantra,2022,Regular,32.8785,42.5634,36.6291,244
+Hyundai,Elantra,2022,Regular,28.0454,35.5409,30.9861,288
+Hyundai,Elantra,2022,Regular,24.8563,33.65,28.1689,318
+Genesis,G80 AWD,2022,Premium,21.788,30.0512,24.8647,360
+Genesis,G80 RWD,2022,Premium,22.5158,31.8318,25.9308,345
+Hyundai,Sonata,2022,Regular,26.8394,36.6221,30.5065,293
+Hyundai,Sonata,2022,Regular,26.8552,36.8145,30.5776,293
+Hyundai,Sonata,2022,Regular,28.0101,38.0722,31.7911,282
+Hyundai,Sonata,2022,Regular,23.3028,32.5707,26.7248,335
+Kia,Niro,2022,Regular,51,46,49,183
+Kia,Niro FE,2022,Regular,52.9723,48.327,50,179
+Kia,Niro Touring,2022,Regular,46,40,43,208
+Hyundai,Santa Cruz FWD,2022,Regular,21.3224,25.5689,23.0446,385
+Hyundai,Santa Cruz AWD,2022,Regular,21.1786,27.1154,23.4933,382
+Hyundai,Santa Cruz AWD,2022,Regular,19.3767,27.1338,22.2375,403
+Chevrolet,Equinox FWD,2022,Regular,26.3761,31,28,318
+GMC,Terrain FWD,2022,Regular,25,30,27,330
+Hyundai,Santa Fe FWD,2022,Regular,24.5777,27.7302,25.9029,344
+Hyundai,Santa Fe FWD,2022,Regular,22.3233,27.9345,24.5416,365
+Chevrolet,Equinox AWD,2022,Regular,25.1342,30.3494,27.2406,327
+GMC,Terrain AWD,2022,Regular,24.508,28,26,342
+Hyundai,Santa Fe AWD,2022,Regular,22.2521,25.2363,23.5027,378
+Hyundai,Santa Fe AWD,2022,Regular,21.4659,27.6779,23.8775,375
+Hyundai,Santa Fe Hybrid,2022,Regular,33.2328,29.8515,31.621,283
+Kia,Telluride AWD,2022,Regular,18.5496,24.3245,20.7684,429
+Hyundai,Santa Fe Hybrid Blue,2022,Regular,36.2848,31.4672,33.9461,264
+Cadillac,CT4 V,2022,Premium,15.6519,24.1681,18.6015,478
+Cadillac,CT4 V,2022,Premium,15.4819,23.0223,18.1582,488
+Cadillac,XT5 FWD,2022,Regular,18.5895,25.5893,21.199,419
+Cadillac,XT6 FWD,2022,Regular,18.5895,25.5893,21.199,419
+Cadillac,XT5 FWD,2022,Premium,22,29.2741,24,370
+Cadillac,XT6 FWD,2022,Premium,21.2505,27.4208,23,386
+Chevrolet,Blazer FWD,2022,Regular,22,29.3143,25.3307,358
+Chevrolet,Blazer FWD,2022,Regular,19.1236,26.8407,21.9655,405
+Cadillac,XT5 AWD,2022,Regular,18.2647,25.5432,20.9512,424
+Cadillac,XT6 AWD,2022,Regular,17.9691,24.8246,20.519,433
+Cadillac,XT5 AWD,2022,Premium,21,27,23,386
+Cadillac,XT6 AWD,2022,Premium,21,26,23,386
+Chevrolet,Blazer AWD,2022,Regular,18.7066,25.6735,21.3087,417
+Chevrolet,Blazer AWD,2022,Regular,22.1096,27,24.4647,368
+GMC,Acadia FWD,2022,Regular,22,29.3143,25.3307,358
+GMC,Acadia FWD,2022,Regular,19.1236,26.8407,21.9655,405
+GMC,Acadia AWD,2022,Regular,18.7066,25.6735,21.3087,417
+GMC,Acadia AWD,2022,Regular,22.1096,27,24.4647,368
+Hyundai,Santa Fe Plug-in Hybrid,2022,Regular Gas and Electricity,33.3209,32.163,32.7897,111
+Jaguar,F-Type R AWD Coupe,2022,Premium,15.5008,24.0365,18.4489,481
+Jaguar,F-Type R AWD Convertible,2022,Premium,15.5008,24.0365,18.4489,481
+Cadillac,CT5 V,2022,Premium,12.8604,20.5806,15.4722,573
+Cadillac,CT5 V,2022,Premium,12.9683,21.9995,15.9068,557
+Hyundai,Elantra Hybrid,2022,Regular,49.2526,52.0663,50.4802,177
+Hyundai,Elantra Hybrid Blue,2022,Regular,52.7058,55.5898,53.9657,165
+Subaru,Impreza 4-Door,2022,Regular,23.2447,31.2288,26.2667,337
+Subaru,Impreza 4-Door,2022,Regular,28.4667,36.3501,31.5453,280
+Subaru,Impreza Sport 4-Door,2022,Regular,27.1281,35.7879,30.443,291
+Subaru,Impreza 5-Door,2022,Regular,23.5971,30.9153,26.4104,335
+Subaru,Impreza 5-Door,2022,Regular,28.0473,35.9506,31.1266,284
+Subaru,Impreza Sport 5-Door,2022,Regular,22.3944,29.9708,25.2689,351
+Subaru,Impreza Sport 5-Door,2022,Regular,27.1962,35.0586,30.2489,292
+Cadillac,XT5 Hearse FWD,2022,Premium,19.5853,22.6702,20.8628,425
+Jeep,Grand Wagoneer 2WD,2022,Premium,12.7459,18.7141,14.8816,595
+Jeep,Grand Wagoneer 4WD,2022,Premium,12.6685,18.3966,14.7328,602
+Toyota,Corolla,2022,Regular,29.7651,38.1044,33.0167,267
+Toyota,Corolla,2022,Regular,29.086,38.7858,32.7744,271
+Toyota,Corolla XLE,2022,Regular,28.8851,37.4747,32.2071,274
+Toyota,Corolla Hybrid,2022,Regular,53,52,52,170
+Toyota,Corolla,2022,Regular,30.8774,39.6137,34.2793,257
+Toyota,Corolla,2022,Regular,28.818,36.453,31.8168,277
+Toyota,Corolla XSE,2022,Regular,30.5479,38.4889,33.6743,265
+Toyota,Corolla APEX,2022,Regular,30.6003,38.0439,33.5547,265
+Toyota,Corolla APEX,2022,Regular,28,35.7879,31.4081,286
+Toyota,Prius,2022,Regular,54,50,52,170
+Toyota,Prius AWD,2022,Regular,51,47,49,179
+Toyota,Prius Eco,2022,Regular,57.8088,53.3226,55.7,158
+Cadillac,XT5 Limo FWD,2022,Premium,19.5853,22.6702,20.8628,425
+Cadillac,XT5 Hearse AWD,2022,Premium,19.5853,22.6702,20.8628,425
+Cadillac,XT5 Limo AWD,2022,Premium,19.5853,22.6702,20.8628,425
+Buick,Enclave FWD,2022,Regular,18.117,26,21.2928,424
+Chevrolet,Traverse FWD,2022,Regular,18.117,27.0988,21.2928,417
+Buick,Enclave AWD,2022,Regular,17,24.8685,20.241,448
+Chevrolet,Traverse AWD,2022,Regular,17,24.8685,20.241,448
+Audi,R8 Coupe,2022,Premium,13.1687,19.479,15.416,572
+Audi,R8 Spyder,2022,Premium,13.1687,19.479,15.416,572
+Audi,R8 Coupe RWD,2022,Premium,14.0331,22.8583,16.9838,518
+Audi,R8 Spyder RWD,2022,Premium,14.0331,22.8583,16.9838,518
+Audi,TT Roadster quattro,2022,Regular,22.6927,30.187,25.5467,346
+Lamborghini,Huracan Spyder,2022,Premium,13.0732,18.2401,14.9857,596
+Lamborghini,Huracan Coupe,2022,Premium,13.0732,18.2401,14.9857,596
+Lamborghini,Huracan Spyder RWD,2022,Premium,13.0766,18.2397,14.9855,596
+Lamborghini,Huracan Coupe RWD,2022,Premium,13.0766,18.2397,14.9855,596
+Bentley,Continental GT V8 Convertible,2022,Premium,15.5122,25.6858,18.8767,473
+Audi,A5 Coupe quattro,2022,Premium,23.9832,30.8316,26.6467,332
+Audi,A5 Cabriolet quattro,2022,Premium,22.5712,31.2305,25.7889,345
+Audi,RS 5 Coupe,2022,Premium,18.0638,25.0904,20.6685,430
+Audi,TT Coupe quattro,2022,Regular,22.6927,30.187,25.5467,346
+Audi,S5 Coupe,2022,Premium,21.2583,29.5798,24.3396,363
+Audi,S5 Cabriolet,2022,Premium,20.7723,27.9925,23.4999,375
+Bentley,Continental GT,2022,Premium,15.8345,26.2278,19.2709,462
+Chevrolet,Camaro,2022,Premium,12.838,20.9877,15.5563,571
+Chevrolet,Camaro,2022,Premium,13.6628,19.5704,15.8105,562
+Audi,A4 quattro,2022,Premium,25.7063,33.7746,28.8025,307
+Audi,A4 S line quattro,2022,Premium,23.9832,30.8316,26.6467,332
+Audi,S4,2022,Premium,21.2583,29.5798,24.3396,363
+Cadillac,CT4,2022,Premium,22.962,33.7669,26.8246,331
+Cadillac,CT4 AWD,2022,Premium,22.3233,30.9153,25.5142,348
+Hyundai,Accent,2022,Regular,33.1352,41.0399,36.2797,248
+Audi,A5 Sportback quattro,2022,Premium,25.7063,33.7746,28.8025,307
+Audi,A6 quattro,2022,Premium,23.0316,31.9954,26.3541,335
+Audi,A5 Sportback S line quattro,2022,Premium,23.9832,30.8316,26.6467,332
+Audi,RS 7,2022,Premium,14.7357,22.4903,17.442,507
+Audi,RS 5 Sportback,2022,Premium,17.9881,25.1064,20.6188,431
+Audi,S5 Sportback,2022,Premium,21.2583,29.5798,24.3396,363
+Audi,A6 quattro,2022,Premium,21.2492,29.9694,24.4507,361
+Audi,A7 quattro,2022,Premium,21.2492,29.9694,24.4507,361
+Bentley,Flying Spur,2022,Premium,15.1979,20.301,17.1363,520
+Cadillac,CT5 AWD,2022,Premium,18.4859,25.9337,21.2295,419
+Cadillac,CT5 V AWD,2022,Premium,18.4859,25.9337,21.2295,419
+Cadillac,CT5,2022,Premium,19.0003,27.0344,21.9335,405
+Cadillac,CT5 V,2022,Premium,18,27.0344,21,423
+Honda,Civic 4Dr,2022,Regular,32.8942,41.6035,36.3152,243
+Honda,Civic 4Dr,2022,Regular,31.0089,38.3105,33.9179,260
+Honda,Civic 4Dr,2022,Regular,31.2059,40.0845,34.6607,254
+Honda,Civic 4Dr,2022,Regular,30.2174,37.4747,33.1021,266
+Hyundai,Venue,2022,Regular,29.3821,32.7368,30.8025,290
+Volkswagen,Passat,2022,Regular,24.1585,35.6059,28.2449,315
+Hyundai,Ioniq,2022,Regular,54.3633,56.6598,55.3733,162
+Hyundai,Ioniq Blue,2022,Regular,58.47,60.2067,59.239,151
+Audi,A4 allroad quattro,2022,Premium,24.0885,29.8444,26.3778,335
+Audi,RS 6 Avant,2022,Premium,14.6134,22.0124,17.2177,514
+Kia,Sorento Hybrid FWD,2022,Regular,39.239,34.6889,37.052,242
+Volkswagen,Tiguan,2022,Regular,22.962,30.034,25.6834,346
+Audi,Q5 S line quattro,2022,Premium,22.8932,27.9918,24.9372,354
+Audi,Q5 Sportback S line quattro,2022,Premium,22.8932,27.9918,24.9372,354
+Audi,SQ5,2022,Premium,18.7801,24.2996,20.9183,422
+Audi,SQ5 Sportback,2022,Premium,18.7801,24.2996,20.9183,422
+Audi,Q3 S line quattro,2022,Regular,20.6741,28.3185,23.5327,375
+Audi,Q3 quattro,2022,Regular,22.5366,30.4753,25.5292,346
+Volkswagen,Tiguan 4motion,2022,Regular,22.1809,29.401,24.9366,357
+Volkswagen,Tiguan R-Line 4motion,2022,Regular,21.4659,28.3824,24.1098,369
+Audi,SQ7,2022,Premium,14.7421,20.6301,16.9145,522
+Audi,SQ8,2022,Premium,14.7421,20.6301,16.9145,522
+Audi,RS Q8,2022,Premium,13.0964,19.112,15.2575,579
+Audi,Q7 quattro,2022,Premium,18.4122,22.5104,20.0552,440
+Audi,Q8 quattro,2022,Premium,18.4122,22.5104,20.0552,440
+Bentley,Bentayga,2022,Premium,14.878,23.7022,17.8722,497
+Lamborghini,Urus,2022,Premium,12.2803,16.6758,13.9329,617
+Audi,A7 TFSI e quattro,2022,Premium and Electricity,24.6845,31.2356,27.257,126
+Audi,Q5 TFSI e quattro,2022,Premium and Electricity,25.0648,26.7761,25.807,148
+Hyundai,Ioniq Plug-in Hybrid,2022,Regular Gas and Electricity,52.4362,51.4965,52.0091,74
+BMW,Z4 sDrive30i,2022,Premium,25.1544,32.2328,27.9128,317
+BMW,Z4 M40i,2022,Premium,21.824,29.0835,24.5855,358
+Jaguar,F-Type P450 RWD Coupe,2022,Premium,16.6294,24.2996,19.3826,460
+Jaguar,F-Type P450 RWD Convertible,2022,Premium,16.6294,24.2996,19.3826,460
+Toyota,GR Supra,2022,Premium,25.1544,32.2328,27.9128,317
+Toyota,GR Supra,2022,Premium,22.1809,29.5278,24.9775,351
+BMW,430i xDrive Coupe,2022,Premium,23.4542,32.8308,26.9131,327
+BMW,430i xDrive Convertible,2022,Premium,23.4542,32.8308,26.9131,327
+BMW,M440i Coupe,2022,Premium,24.9182,33.664,28.217,312
+BMW,M440i Convertible,2022,Premium,22.8162,30.9899,25.8889,340
+BMW,M4 Coupe,2022,Premium,16.0255,23.2422,18.6283,472
+BMW,M4 Competition Coupe,2022,Premium,16.2409,22.9535,18.7021,470
+BMW,M4 Competition M xDrive Convertible,2022,Premium,15.6194,22.7217,18.176,484
+Acura,ILX,2022,Premium,24.2285,34.3255,27.9249,316
+BMW,228i xDrive Gran Coupe,2022,Premium,23.1526,33.0688,26.7641,329
+BMW,228i Gran Coupe,2022,Premium,24.4022,34.3698,28.0648,314
+BMW,330i Sedan,2022,Premium,26.1349,35.5482,29.6705,298
+BMW,330i xDrive Sedan,2022,Premium,24.6914,34.1405,28.2041,314
+BMW,M3 Sedan,2022,Premium,16.0255,23.2422,18.6283,472
+BMW,M3 Competition Sedan,2022,Premium,16.2409,22.9535,18.7021,470
+BMW,M440i xDrive Gran Coupe,2022,Premium,21.5376,29.4644,24.5042,360
+Volvo,S60 B5,2022,Premium,26.1013,35.1195,29.5115,299
+Volvo,S60 B5 AWD,2022,Premium,24.7171,33.0332,27.875,316
+Audi,S6,2022,Premium,18.3582,27.5128,21.5911,408
+Audi,S7,2022,Premium,18.3582,27.5128,21.5911,408
+BMW,530i Sedan,2022,Premium,24.8805,33.3031,28.0757,313
+BMW,540i xDrive Sedan,2022,Premium,22.3944,29.0199,24.9587,352
+Volvo,S90 B6 AWD,2022,Premium,22.6786,31.2914,25.8847,341
+Volvo,V60CC T5 AWD,2022,Premium,21.5376,30.5383,24.8309,355
+Audi,A6 Allroad quattro,2022,Premium,20.5296,28.3185,23.4295,377
+Volvo,V90CC B6 AWD,2022,Premium,22.4655,29.2741,25.0916,352
+Volkswagen,Atlas,2022,Regular,21.4659,25.2214,23.0075,387
+Volkswagen,Atlas Cross Sport,2022,Regular,21.4659,24.5862,22.7661,391
+Volkswagen,Atlas Cross Sport,2022,Regular,18.3385,23.8388,20.4631,435
+Volvo,XC40 T4,2022,Regular,22.7495,31.5415,26.0124,340
+Volkswagen,Atlas 4motion,2022,Regular,20,24,22.2545,411
+Volkswagen,Atlas Cross Sport 4motion,2022,Regular,20.3124,24.2104,21.899,406
+Volkswagen,Atlas Cross Sport 4motion,2022,Regular,17.8951,23.5087,20.0495,443
+Volkswagen,Atlas 4motion,2022,Regular,17.0777,23.0453,19.3302,460
+Volvo,XC40 T5 AWD,2022,Premium,21.5376,29.8444,24.6218,359
+Volvo,XC60 B5 AWD,2022,Premium,22.1809,27.9986,24.4688,360
+Volvo,XC60 B6 AWD,2022,Premium,21.4659,27.0344,23.6588,373
+Volvo,XC90 T5,2022,Premium,21.3942,29.8444,24.5182,361
+Audi,Q7 quattro,2022,Premium,19.6583,25.0863,21.7789,406
+Volvo,XC90 T5 AWD,2022,Premium,20.4572,28.1266,23.3185,380
+Volvo,XC90 T6 AWD,2022,Premium,19.0003,26.5175,21.7785,405
+Kia,Niro Plug-in Hybrid,2022,Regular Gas and Electricity,48.1489,44.4535,46.4127,90
+Land Rover,Range Rover Sport PHEV,2022,Premium and Electricity,17.9691,21.0469,19.2349,259
+Chevrolet,Camaro,2022,Premium,18.7066,29,22.4007,385
+Chevrolet,Camaro,2022,Premium,21.5376,30,24.8309,358
+Cadillac,CT5,2022,Premium,22.8912,33.095,26.5788,333
+Cadillac,CT5 AWD,2022,Premium,21.6865,30.0497,24.7914,358
+Kia,Sorento FWD,2022,Regular,24.2774,28.9363,26.1738,342
+Kia,Sorento FWD,2022,Regular,22.441,28.5984,24.8485,360
+Volkswagen,Atlas,2022,Regular,18.4122,24.1023,20,445
+Kia,Sorento AWD,2022,Regular,23.3858,25.4439,24.2692,366
+Kia,Sorento AWD,2022,Regular,21.6093,27.0344,23.7544,377
+Land Rover,Range Rover Evoque,2022,Premium,19.809,26.6798,22.4055,398
+Land Rover,Discovery Sport,2022,Premium,18.5255,23.409,20.4448,437
+Jaguar,F-Type P450 AWD R-Dynamic Coupe,2022,Premium,15.5008,24.0365,18.4489,481
+Jaguar,F-Type P450 AWD R-Dynamic Convertible,2022,Premium,15.5008,24.0365,18.4489,481
+Audi,A3 quattro,2022,Regular,27.7573,35.5271,30.7872,286
+Audi,S3,2022,Premium,23.4482,32.4756,26.8007,331
+Chevrolet,Camaro,2022,Regular,18.4122,29.0546,22.0461,404
+Chevrolet,Camaro,2022,Regular,16.2995,26.1056,19.6151,452
+Chevrolet,Camaro,2022,Premium,15.8028,23.8388,18.6287,477
+Cadillac,CT4,2022,Premium,21.3942,30.7898,24.7997,356
+Cadillac,CT4 V,2022,Premium,19.7311,28.7015,22.9603,385
+Cadillac,CT4 AWD,2022,Premium,20.665,28.719,23.6495,375
+Cadillac,CT4 V AWD,2022,Premium,20,28,23,386
+Toyota,Corolla Hatchback,2022,Regular,28.1579,35.9365,31.1966,284
+Toyota,Corolla Hatchback,2022,Regular,31.798,41.0074,35.3728,251
+Toyota,Corolla Hatchback XSE,2022,Regular,29.8859,38.3105,33.1681,266
+Volkswagen,GLI,2022,Regular,26.2146,36.0773,29.8919,297
+Volkswagen,GLI,2022,Regular,25.732,36.7874,29.756,299
+Alfa Romeo,Giulia,2022,Premium,17.45,25.4128,20.3144,436
+BMW,M550i xDrive Sedan,2022,Premium,17.1739,25.1413,20.0304,439
+BMW,M5 Sedan,2022,Premium,14.523,21.1456,16.9056,523
+BMW,M5 Competition Sedan,2022,Premium,14.523,21.1456,16.9056,523
+Rolls-Royce,Phantom,2022,Premium,11.7348,19.8951,14.391,615
+Rolls-Royce,Phantom Extended,2022,Premium,11.7348,19.8951,14.391,615
+Honda,HR-V AWD,2022,Regular,26.5817,31.4461,28.5705,311
+Honda,HR-V AWD,2022,Regular,26.3549,31.0389,28.275,314
+Honda,HR-V FWD,2022,Regular,28.0101,33.5269,30.25,292
+Honda,HR-V FWD,2022,Regular,28.0101,33.5269,30.25,292
+Rolls-Royce,Cullinan,2022,Premium,11.7258,19.6574,14.3272,618
+Rolls-Royce,Cullinan Black Badge,2022,Premium,11.7258,19.6574,14.3272,618
+Lexus,RX 350 L,2022,Regular,19.2932,26,21.989,407
+Alfa Romeo,Stelvio AWD,2022,Premium,16.9285,22.7798,19.141,463
+Jaguar,E-Pace,2022,Premium,20.4918,25.6807,22.5414,398
+Jaguar,E-Pace MHEV,2022,Premium,20.8906,25.6084,22.7791,394
+Lexus,RX 350 L AWD,2022,Regular,18,25,21.2569,432
+Lexus,RX 450h L AWD,2022,Premium,29,28.1086,29,305
+Subaru,Ascent,2022,Regular,20.6741,26.9053,23.0794,384
+Subaru,Ascent Limited/Touring/Onyx AWD,2022,Regular,19.8039,25.6084,22.0533,401
+Volvo,S60 T8 AWD Recharge,2022,Premium and Electricity,28.0777,33.4653,30.2707,155
+Volvo,S90 T8 AWD Recharge,2022,Premium and Electricity,28.3475,31.4791,29.676,164
+Volvo,XC60 T8 AWD Recharge,2022,Premium and Electricity,24.1585,26.9699,25.3475,206
+Volvo,XC90 T8 AWD Recharge,2022,Premium and Electricity,25.963,27.9986,26.8412,197
+Maserati,MC20,2022,Premium,15.2655,24.7365,18.4431,474
+Subaru,BRZ,2022,Premium,19.6188,26.8145,22.3133,398
+Subaru,BRZ,2022,Premium,21.2714,30.4309,24.6039,362
+Audi,TTS Coupe quattro,2022,Premium,23.4171,30.5483,26.1658,337
+Audi,A3,2022,Regular,28.7489,38.1797,32.3441,273
+BMW,230i Coupe,2022,Premium,25.9637,34.6925,29.2787,300
+BMW,M240i xDrive Coupe,2022,Premium,22.8258,32.4295,26.3353,335
+BMW,430i Coupe,2022,Premium,24.8039,33.897,28.2092,312
+BMW,430i Convertible,2022,Premium,24.8039,33.897,28.2092,312
+BMW,M440i xDrive Coupe,2022,Premium,22.8241,31.5372,26.0647,337
+BMW,M440i xDrive Convertible,2022,Premium,22.9372,31,26.2855,339
+BMW,M4 Competition M xDrive Coupe,2022,Premium,16.1455,22.4442,18.4792,477
+Chevrolet,Camaro,2022,Premium,16.1673,26.4308,19.5906,452
+BMW,M235i xDrive Gran Coupe,2022,Premium,22.7974,32.3987,26.3054,334
+BMW,M340i Sedan,2022,Premium,23.3046,31.5639,26.415,333
+BMW,M340i xDrive Sedan,2022,Premium,22.8241,31.5372,26.0647,337
+BMW,M3 Competition M xDrive Sedan,2022,Premium,16.1455,22.4442,18.4792,477
+BMW,430i Gran Coupe,2022,Premium,24.8039,33.897,28.2092,312
+Mitsubishi,Mirage,2022,Regular,33.419,40.8484,36.398,242
+Mitsubishi,Mirage,2022,Regular,36.0271,43.063,38.8861,227
+Mitsubishi,Mirage G4,2022,Regular,33.1301,40,35,252
+Mitsubishi,Mirage G4,2022,Regular,34.7905,41.3658,37.4708,235
+BMW,530i xDrive Sedan,2022,Premium,23.3292,31.5216,26.419,332
+BMW,540i Sedan,2022,Premium,24.6475,31.7289,27.3993,322
+Maserati,Ghibli Trofeo,2022,Premium,13.4906,19.7979,15.7483,560
+Maserati,Ghibli Modena AWD,2022,Premium,15.8554,23.9491,18.6992,472
+Maserati,Ghibli GT,2022,Premium,17.5439,24.9859,20.2593,436
+Maserati,Ghibli Modena RWD,2022,Premium,17.5439,24.9859,20.2593,436
+Genesis,G80 AWD,2022,Premium,17.3599,25.921,20.3904,439
+Maserati,Quattroporte Trofeo,2022,Premium,13.4906,19.7979,15.7483,560
+Maserati,Quattroporte Modena AWD,2022,Premium,15.8554,23.9491,18.6992,472
+Maserati,Quattroporte Modena RWD,2022,Premium,16.2998,25.1847,19.3758,453
+Maserati,Quattroporte GT,2022,Premium,16.2998,25.1847,19.3758,453
+Rolls-Royce,Ghost,2022,Premium,11.8118,18.5426,14.1179,624
+Rolls-Royce,Ghost Extended,2022,Premium,11.8118,18.5426,14.1179,624
+Rolls-Royce,Ghost Black Badge,2022,Premium,11.8118,18.5426,14.1179,624
+BMW,X3 sDrive30i,2022,Premium,22.5716,28.5889,24.9331,352
+Genesis,GV80 RWD,2022,Premium,21.0347,25.2654,22.7489,394
+Honda,Pilot FWD,2022,Regular,20.0566,27.0656,22.7022,388
+Mitsubishi,Outlander Sport 2WD,2022,Regular,24.3268,30.0243,26.5981,331
+Mitsubishi,Outlander Sport 2WD,2022,Regular,23,29.2404,25,354
+BMW,X3 xDrive30i,2022,Premium,21.2842,27.7194,23.7672,370
+BMW,X3 M40i,2022,Premium,21.4387,26.0127,23.2808,379
+BMW,X3 M,2022,Premium,14.9532,20.153,16.9174,519
+BMW,X3 M Competition,2022,Premium,14.9532,20.153,16.9174,519
+BMW,X4 xDrive30i,2022,Premium,21.2842,27.7194,23.7672,370
+BMW,X4 M40i,2022,Premium,21.4387,26.0127,23.2808,379
+BMW,X4 M,2022,Premium,14.9532,20.153,16.9174,519
+BMW,X4 M Competition,2022,Premium,14.9532,20.153,16.9174,519
+Honda,Pilot AWD,2022,Regular,19,26.1326,22.1458,407
+Mitsubishi,Outlander Sport 4WD,2022,Regular,23.4239,28.867,25.5957,344
+Mitsubishi,Outlander Sport 4WD,2022,Regular,23.0094,28,25.22,353
+BMW,X5 sDrive40i,2022,Premium,21.1025,25.5286,22.8882,383
+Jeep,Wagoneer 2WD,2022,Midgrade,16.1793,22.242,18.4413,480
+BMW,X5 xDrive40i,2022,Premium,20.7577,25.469,22.6425,388
+BMW,X5 M50i,2022,Premium,16.0809,21.7122,18.2057,485
+BMW,X5 M,2022,Premium,13.1435,18.0892,14.9875,586
+BMW,X5 M Competition,2022,Premium,13.1435,18.0892,14.9875,586
+BMW,X6 xDrive40i,2022,Premium,20.7577,25.469,22.6425,388
+BMW,X6 M50i,2022,Premium,16.0809,21.7122,18.2057,485
+BMW,X6 M,2022,Premium,13.1435,18.0892,14.9875,586
+BMW,X6 M Competition,2022,Premium,13.1435,18.0892,14.9875,586
+BMW,X7 xDrive40i,2022,Premium,19.4394,24.0365,21.27,412
+BMW,X7 M50i,2022,Premium,14.9611,20.5341,17.0426,517
+BMW,Alpina XB7,2022,Premium,14.9611,20.5341,17.0426,517
+Genesis,GV80 AWD,2022,Premium,20.6423,24.6022,22.2542,401
+Genesis,GV80 AWD,2022,Premium,18.1909,22.7134,19.9812,448
+Jeep,Wagoneer 4WD,2022,Midgrade,15.1221,20.1649,17.0397,520
+Maserati,Levante Modena,2022,Premium,15.5613,21.626,17.8087,495
+Maserati,Levante GT,2022,Premium,15.5613,21.626,17.8087,495
+Maserati,Levante Modena V8,2022,Premium,13.4955,19.5576,15.683,562
+Maserati,Levante Trofeo,2022,Premium,13.4955,19.5576,15.683,562
+Volkswagen,GTI,2022,Regular,23.9117,34.1344,27.6362,319
+Toyota,Camry,2022,Regular,22.3944,33.0332,26.1901,338
+Toyota,Camry TRD,2022,Regular,21.7524,30.9781,25.1187,354
+Toyota,Camry XSE,2022,Regular,22.0524,31.9782,25.6327,345
+Toyota,Camry AWD LE/SE,2022,Regular,25.0989,34,28.6119,310
+Toyota,Camry AWD XLE/XSE,2022,Regular,24.9954,34.4479,28,315
+Toyota,Camry LE/SE,2022,Regular,27.6792,38.5217,31.6935,280
+Toyota,Camry XLE/XSE,2022,Regular,27,38,31,286
+Toyota,Camry Hybrid LE,2022,Regular,50.9899,52.7112,51.7504,170
+Toyota,Camry Hybrid SE/XLE/XSE,2022,Regular,44.1939,47,46.2351,195
+Chevrolet,Colorado 2WD,2022,Regular,19.2932,25.0863,21.5306,413
+GMC,Canyon 2WD,2022,Regular,19.2932,25.0863,21.5306,413
+Chevrolet,Colorado 4WD,2022,Regular,18.5523,23.7647,20.5839,431
+GMC,Canyon 4WD,2022,Regular,18.5523,23.7647,20.5839,431
+Toyota,Sequoia 2WD,2022,Regular,13.2868,17,14.925,604
+Toyota,Sequoia 4WD,2022,Regular,12.7507,16.9861,14.3622,618
+Hyundai,Tucson Plug-in Hybrid,2022,Regular Gas and Electricity,34.7293,35.3739,35.0164,100
+Kia,Sorento Plug-in Hybrid,2022,Regular Gas and Electricity,35.0284,32.9232,34.0487,105
+Toyota,Prius Prime,2022,Regular Gas and Electricity,55.2206,53,54.4329,78
+Volvo,V60 T8 AWD Recharge,2022,Premium and Electricity,28.0777,33.4653,30.2707,155
+Porsche,911 Turbo,2022,Premium,15.4251,19.8273,17.1373,516
+Porsche,911 Turbo Cabriolet,2022,Premium,15.0462,20,17.1146,521
+Porsche,911 Turbo S,2022,Premium,15.3495,20,17.4142,517
+Porsche,911 Turbo S Cabriolet,2022,Premium,14.7421,20,16.8966,528
+Toyota,Avalon XLE,2022,Regular,22.2521,32.4757,25.9247,341
+Toyota,Avalon,2022,Regular,21.5376,31.2914,25.0516,352
+Toyota,Avalon Hybrid,2022,Regular,43.237,43.213,43.2262,203
+Toyota,Avalon Hybrid XLE,2022,Regular,42.9632,44.48,43.6328,201
+Chevrolet,Colorado 2WD,2022,Diesel,19.9494,29.6545,23.3948,435
+Chevrolet,Colorado 2WD,2022,Regular,18.2647,25.3476,20.8917,424
+GMC,Canyon 2WD,2022,Diesel,19.9494,29.6545,23.3948,435
+GMC,Canyon 2WD,2022,Regular,18.2647,25.3476,20.8917,424
+Chevrolet,Colorado 4WD,2022,Regular,17,23.6408,19,465
+Chevrolet,Colorado ZR2 4WD,2022,Regular,15.8028,18,17.3442,529
+Chevrolet,Colorado ZR2 4WD,2022,Diesel,17.6452,22.1305,19.416,525
+Chevrolet,Colorado 4WD,2022,Diesel,19.22,27.9345,22.3588,455
+GMC,Canyon 4WD,2022,Regular,17,23.6408,19,465
+GMC,Canyon 4WD,2022,Diesel,19.22,27.9345,22.3588,455
+Ram,1500 2WD,2022,Diesel,22.4655,32.3515,26.0473,390
+Ram,1500 2WD,2022,Regular,19.694,25.0847,21.8024,407
+Ram,1500 2WD,2022,Midgrade,18.117,23,20.2239,443
+Ram,1500 2WD,2022,Midgrade,14.5136,22.4805,17.2673,514
+Ram,1500 HFE 2WD,2022,Diesel,22.6786,33.2803,26.4736,384
+Ram,1500 HFE 2WD,2022,Regular,20.3124,26.1934,22.5953,394
+Ram,1500 4WD,2022,Diesel,21.2505,29.401,24.2793,418
+Ram,1500 4WD,2022,Regular,19.3311,24.2425,21.2703,417
+Ram,1500 4WD,2022,Midgrade,17.5417,22.4371,19.4515,456
+Ram,1500 4WD,2022,Midgrade,14.5898,21.3781,17.0221,523
+Ram,1500 TRX 4WD,2022,Premium,10.4781,14.2321,11.8893,748
+Nissan,Armada 2WD,2022,Premium,14.1316,19,16.1706,558
+Land Rover,Range Rover,2022,Premium,16.3295,20.8405,18.0917,491
+Land Rover,Range Rover LWB,2022,Premium,16.3295,20.8405,18.0917,491
+Land Rover,Range Rover SVA,2022,Premium,13.7484,18.6021,15.5774,569
+Land Rover,Range Rover LWB SVA,2022,Premium,13.1325,18.5337,15.1147,587
+Land Rover,Range Rover P360 MHEV,2022,Premium,17.7285,23.0752,19.7922,449
+Land Rover,Range Rover P400 MHEV,2022,Premium,17.7285,23.0752,19.7922,449
+Nissan,Armada 4WD,2022,Premium,13,18,15,593
+Nissan,Armada 4WD,2022,Premium,13,18,15,594
+Ferrari,F8 Spider,2022,Premium,14.5139,18.1364,15.9472,552
+Ferrari,812 GTS,2022,Premium,12.0313,15.2125,13.2811,665
+Porsche,911 Carrera,2022,Premium,18,24,20,443
+Porsche,911 Carrera Cabriolet,2022,Premium,18,24,20,443
+Porsche,911 Carrera S,2022,Premium,18.3385,25,21.0441,425
+Porsche,911 Carrera S,2022,Premium,18.1909,23,20.3834,441
+Porsche,911 Carrera S Cabriolet,2022,Premium,17,25,20,443
+Porsche,911 Carrera S Cabriolet,2022,Premium,18.2647,23,20.4125,439
+Porsche,911 Carrera 4S,2022,Premium,17,25.4128,20,442
+Porsche,911 Carrera 4S,2022,Premium,18.0431,23,20.2596,443
+Porsche,911 Carrera 4S Cabriolet,2022,Premium,17,24,20.4125,452
+Porsche,911 Carrera 4S Cabriolet,2022,Premium,18.3385,23,20.375,439
+Porsche,911 Carrera 4,2022,Premium,18,24,20,442
+Porsche,911 Carrera 4 Cabriolet,2022,Premium,18,24.2339,20,443
+Porsche,911 Targa 4S,2022,Premium,18,23,20,442
+Porsche,911 Targa 4S,2022,Premium,17.2268,24,20.0353,447
+Porsche,911 Targa 4,2022,Premium,18,24,20,442
+Ferrari,Roma,2022,Premium,16.5726,22.197,18.7055,472
+Honda,Ridgeline AWD,2022,Regular,18,23.7728,20.7402,441
+Honda,CR-V FWD,2022,Regular,28,33.7141,30,294
+Lexus,RX 350,2022,Regular,19.8812,27.175,22.6123,391
+Honda,CR-V AWD,2022,Regular,27,32.3775,29,305
+Honda,CR-V Hybrid AWD,2022,Regular,40.3712,35,38.1714,234
+Lexus,RX 350 AWD,2022,Regular,19.2323,26.1286,21.8244,405
+Toyota,4Runner 2WD,2022,Regular,16.4046,18.9536,17.4613,503
+Lexus,RX 450h AWD,2022,Premium,31.2535,28.1086,29.7554,297
+Lexus,GX 460,2022,Premium,14.5136,19.0798,16.2653,542
+Toyota,4Runner 4WD,2022,Regular,15.8616,18.9036,17.0999,515
+Toyota,4Runner 4WD,2022,Regular,15.8028,18.6887,16.9829,519
+Porsche,Cayenne/Coupe E-Hybrid,2022,Premium and Electricity,19.909300000000002,22.1674,20.8658,257
+Porsche,Cayenne Turbo S/Coupe E-Hybrid,2022,Premium and Electricity,17.0142,19.5061,18.052,320
+Chevrolet,Corvette,2022,Premium,15.5677,24.4108,18.5998,478
+Ferrari,F8 Tributo,2022,Premium,14.5949,19.0653,16.3165,541
+Ferrari,812 Competizione,2022,Premium,12.1952,15.6623,13.5444,652
+Lexus,ES 350,2022,Regular,21.908,32.3304,25.6254,344
+Lexus,ES 350 F Sport,2022,Regular,21.6093,31.1662,25.0685,352
+Lexus,ES 250 AWD,2022,Regular,24.9954,34.4479,28,315
+Lexus,ES 300h,2022,Regular,43,44.4658,44.0824,201
+Nissan,Frontier 2WD,2022,Regular,18.3385,24.2868,20,444
+Nissan,Frontier 4WD,2022,Regular,17.4894,22.4687,19.4267,458
+Mitsubishi,Outlander PHEV,2022,Regular Gas and Electricity,25.7007,26.0445,25.8543,165
+Ferrari,Portofino M,2022,Premium,16.3243,22.8747,18.7391,471
+Mercedes-Benz,A220 4matic,2022,Premium,24.7171,34.5703,28.3537,312
+Mercedes-Benz,A220,2022,Premium,24.2984,35.4845,28.3151,313
+Lexus,UX 250h,2022,Regular,43.0233,40.9422,42.0612,209
+Lexus,UX 250h AWD,2022,Regular,41.2367,38,39,225
+Mercedes-Benz,CLA250 4matic,2022,Premium,23.9483,33.4036,27.4441,322
+Mercedes-Benz,CLA250,2022,Premium,24.7171,35.6666,28.6791,309
+Hyundai,Elantra N,2022,Premium,19.5079,29.6202,23.0489,388
+Hyundai,Elantra N,2022,Premium,21.6676,30.7233,24.981,358
+Lexus,UX 200,2022,Regular,29.42,37.235,32.4885,271
+Ford,Maverick FWD,2022,Regular,22.7495,30,25.9354,342
+Toyota,Tacoma 2WD,2022,Regular,18.7066,23.6408,20.6457,431
+Toyota,Tacoma 2WD,2022,Regular,19.5124,23.3764,21.0804,423
+Ford,Maverick AWD,2022,Regular,21.8954,29,24.9361,356
+Toyota,Tacoma 4WD,2022,Regular,18.1204,22.3877,19.8205,448
+Toyota,Tacoma 4WD,2022,Regular,17.0777,20.571,18.4907,481
+Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,2022,Regular,17.0936,20.0593,18.3119,483
+Toyota,Tacoma 4WD,2022,Regular,18.5595,22.2474,20.0556,441
+Volvo,XC60 B5,2022,Premium,23.1035,29.7178,25.675,345
+Kia,Sorento Hybrid AWD,2022,Regular,36.3148,33.3112,34.8988,257
+Land Rover,Range Rover Evoque MHEV,2022,Premium,20.8906,25.8037,22.8483,393
+Subaru,Forester AWD,2022,Regular,26.0706,32.6089,28.6562,310
+Subaru,Forester Wilderness AWD,2022,Regular,24.7171,28.3824,26.2421,338
+Infiniti,QX80 2WD,2022,Premium,14.019,19.7791,16.1333,552
+Lincoln,Aviator RWD,2022,Regular,18.1909,26.1934,21.0905,424
+Infiniti,QX80 4WD,2022,Premium,13,19.4757,15,592
+Infiniti,QX80 4WD,2022,Premium,13.3638,19.488,15,593
+Lincoln,Aviator AWD,2022,Regular,17.1523,24.3654,19.7885,451
+Lincoln,Aviator PHEV AWD,2022,Regular Gas and Electricity,21.5376,24.6279,22.8265,209
+Bugatti,Chiron,2022,Premium,8.7889,14.1373,10.5921,840
+Bugatti,Chiron Super Sport,2022,Premium,7.762,11.2461,9.0194,979
+Bugatti,Chiron Pur Sport,2022,Premium,7.762,11.2461,9.0194,979
+Porsche,911 GT3,2022,Premium,15.0462,18.4653,16.4139,538
+Porsche,911 GT3,2022,Premium,13.8251,18,15.6747,571
+Porsche,718 Boxster,2022,Premium,20.0948,26.3231,22.4893,394
+Porsche,718 Boxster,2022,Premium,21.3942,27.0344,23.6109,375
+Porsche,718 Cayman,2022,Premium,20.0948,26.3231,22.4893,394
+Porsche,718 Cayman,2022,Premium,21.3942,27.0344,23.6109,375
+Porsche,718 Boxster S,2022,Premium,18.7801,24.431,20.9619,423
+Porsche,718 Boxster S,2022,Premium,19.22,25.478,21.6084,410
+Porsche,718 Boxster GTS,2022,Premium,16.8538,23.5087,19.3142,458
+Porsche,718 Boxster GTS,2022,Premium,19.1468,24.1023,21.0989,418
+Porsche,718 Spyder,2022,Premium,16.8538,23.1778,19.2128,460
+Porsche,718 Spyder,2022,Premium,18.117,23.7068,20.2675,436
+Porsche,718 Cayman GTS,2022,Premium,16.8538,23.5087,19.3142,458
+Porsche,718 Cayman GTS,2022,Premium,19.1468,24.1023,21.0989,418
+Porsche,718 Cayman S,2022,Premium,18.7801,24.431,20.9619,423
+Porsche,718 Cayman S,2022,Premium,19.22,25.478,21.6084,410
+Porsche,718 Boxster T,2022,Premium,20.0948,26.3231,22.4893,394
+Porsche,718 Boxster T,2022,Premium,20.9627,26.9699,23.2979,380
+Porsche,718 Cayman GT4,2022,Premium,16.8538,23.1778,19.2128,460
+Porsche,718 Cayman GT4,2022,Premium,18.117,23.7068,20.2675,436
+Porsche,718 Cayman T,2022,Premium,20.0948,26.3231,22.4893,394
+Porsche,718 Cayman T,2022,Premium,20.9627,26.9699,23.2979,380
+Bentley,Continental GT Speed Convertible,2022,Premium,11.5951,18.2215,13.8639,636
+Bentley,Continental GT Speed,2022,Premium,11.9795,19.6256,14.5262,610
+Infiniti,Q60,2022,Premium,19,28.2222,22,404
+Infiniti,Q60 Red Sport,2022,Premium,20.131,27,22,405
+Infiniti,Q60 Red Sport AWD,2022,Premium,19,26.0308,21,423
+Infiniti,Q60 AWD,2022,Premium,19.22,27.131,22.1228,403
+Lexus,RC F,2022,Premium,16.3887,24.4289,19.238,459
+Lexus,RC 300 AWD,2022,Premium,19.22,25.9987,21.7748,407
+Lexus,RC 350,2022,Premium,20.0221,27.8704,22.9275,385
+Lexus,RC 350 AWD,2022,Premium,19.22,25.9987,21.7748,407
+Lexus,RC 300,2022,Premium,21.2422,31.0479,24.7613,356
+Lexus,IS 300 AWD,2022,Premium,19.22,25.9987,21.7748,407
+Lexus,IS 350,2022,Premium,20.0221,27.8704,22.9275,385
+Lexus,IS 350 AWD,2022,Premium,19.22,25.9987,21.7748,407
+Lexus,IS 300,2022,Premium,21.2422,31.0479,24.7613,356
+Lexus,IS 500,2022,Premium,16.6322,25.426,19.6979,451
+Volkswagen,GTI,2022,Regular,25.2,33.7199,28.4328,312
+Bentley,Flying Spur,2022,Premium,12.2803,19.216,14.6616,601
+Infiniti,Q50,2022,Premium,20,29.274,23,388
+Infiniti,Q50 AWD,2022,Premium,19.22,27.131,22.1228,403
+Infiniti,Q50 Red Sport,2022,Premium,19.585,26.2255,22.1036,403
+Infiniti,Q50 Red Sport  AWD,2022,Premium,19,26.0308,22.0133,411
+Honda,Civic 5Dr,2022,Regular,31,39.4957,34.723,258
+Honda,Civic 5Dr,2022,Regular,30.3497,37.3549,33.1469,267
+Honda,Civic 5Dr,2022,Regular,27.6717,37.3549,31.3259,282
+Honda,Civic 5Dr,2022,Regular,29.5533,37.9529,32.8221,269
+Honda,Civic 5Dr,2022,Regular,28.7509,36.6941,31.8538,277
+Honda,Civic 5Dr,2022,Regular,26.1013,35.909,29,304
+Toyota,Sienna 2WD,2022,Regular,35.7632,36.3698,36.0336,246
+Toyota,Sienna AWD,2022,Regular,34.5504,35.6213,35.0242,253
+Mercedes-Benz,GLE350,2022,Premium,19.4394,27.0344,22.2526,398
+Mercedes-Benz,GLE350 4matic,2022,Premium,19.3663,26.4527,22.0209,402
+Infiniti,QX60 FWD,2022,Premium,20.5974,26.0034,22.7232,391
+Bentley,Bentayga Speed,2022,Premium,12.3581,18.0543,14.403,616
+Infiniti,QX60 AWD,2022,Premium,19.7311,24.7432,21.7101,407
+Audi,TT RS Coupe,2022,Premium,20.0667,29.0894,23.3219,377
+Kia,Rio,2022,Regular,32.539,40.6531,35.75,250
+Kia,Forte,2022,Regular,22.323,31.1035,25.5715,348
+Kia,Forte,2022,Regular,27.0633,35.4891,30.3006,296
+Kia,Forte FE,2022,Regular,30.7457,41.1962,34.7078,256
+Kia,Forte,2022,Regular,29.1356,39.4289,33.014,271
+Audi,A8 L quattro,2022,Premium,18.6993,28.4,22.0956,399
+Honda,Accord,2022,Regular,30,37.8267,33,268
+Honda,Accord Sport/Touring,2022,Regular,29.4867,35.1804,31.8029,278
+Honda,Accord Sport/Touring,2022,Regular,22,31.8536,25.9525,345
+Honda,Accord Hybrid,2022,Regular,47.6214,47.1006,47.3856,186
+Honda,Accord Hybrid Sport/Touring,2022,Regular,44.0011,41.0163,42.6059,207
+Porsche,Panamera,2022,Premium,18,24,20,441
+Porsche,Panamera 4S,2022,Premium,18.4122,24,20,445
+Porsche,Panamera 4S Executive,2022,Premium,17,23.1116,19,469
+Porsche,Panamera 4S ST,2022,Premium,17,23.1116,19,469
+Porsche,Panamera 4,2022,Premium,18.3385,24,20,441
+Porsche,Panamera 4 Executive,2022,Premium,17,23,19,465
+Porsche,Panamera 4 ST,2022,Premium,18.3385,23,20,441
+Porsche,Panamera Turbo S/Exec/ST,2022,Premium,15.3495,21,17,525
+Porsche,Panamera GTS,2022,Premium,15,21,17,520
+Porsche,Panamera GTS ST,2022,Premium,15,20,17,520
+Chevrolet,Silverado 2WD,2022,Diesel,23.1616,31.491,26.2909,387
+GMC,Sierra 2WD,2022,Diesel,23.1616,30,26.2909,394
+Chevrolet,Silverado 4WD,2022,Diesel,22.3233,25.9668,23.8278,427
+Chevrolet,Silverado Mud Terrain Tires 4WD,2022,Diesel,19.8767,22.7505,21.0746,479
+GMC,Sierra 4WD,2022,Diesel,22.3233,25.9668,23.8278,427
+GMC,Sierra Mud Terrain Tires 4WD,2022,Diesel,19.8767,22.7505,21.0746,479
+Hyundai,Kona N,2022,Premium,20.0067,26.9266,22.623,396
+Jeep,Compass FWD,2022,Regular,22.1809,30.8811,25.4013,350
+Toyota,Corolla Cross,2022,Regular,31.0089,33.3912,32.0375,275
+Jeep,Compass 4WD,2022,Regular,21.7524,30.1602,24.8726,358
+Subaru,Crosstrek AWD,2022,Regular,22.3944,28.9563,24.9374,355
+Subaru,Crosstrek AWD,2022,Regular,27.5592,33.4397,29.9275,297
+Subaru,Crosstrek AWD,2022,Regular,26.6223,33.708,29.4037,302
+Toyota,Corolla Cross 4WD,2022,Regular,29,31.6934,30,293
+Cadillac,Escalade 2WD,2022,Diesel,21.3942,26.9053,23,442
+Chevrolet,Tahoe 2WD,2022,Diesel,21.3942,28,24.1625,425
+Chevrolet,Suburban 2WD,2022,Diesel,21.3942,26.9053,23,442
+GMC,Yukon 2WD,2022,Diesel,21.3942,26.9053,23,442
+GMC,Yukon XL 2WD,2022,Diesel,21.3942,26.9053,23,442
+Cadillac,Escalade 4WD,2022,Diesel,20.1673,26,22,462
+Chevrolet,Tahoe 4WD,2022,Diesel,20.1673,26,22,462
+Chevrolet,Suburban 4WD,2022,Diesel,20.1673,26,22,462
+GMC,Yukon XL 4WD,2022,Diesel,20.1673,26,22,462
+GMC,Yukon 4WD,2022,Diesel,20.1673,26,22,462
+Mercedes-Benz,GLE450 4matic,2022,Premium,20.1673,25.2823,22.1873,399
+Mercedes-Benz,GLS450 4matic,2022,Premium,18.4122,23.5747,20.4249,433
+Porsche,Panamera 4 E-Hybrid/Exec/ST,2022,Premium and Electricity,20.6091,23.5681,21.8432,232
+Porsche,Panamera 4S E-Hybrid/Exec/ST,2022,Premium and Electricity,20.6304,23.3649,21.7773,236
+McLaren Automotive,720S Coupe,2022,Premium,15.285,21.785,17.6556,505
+McLaren Automotive,720S Spider,2022,Premium,15.285,21.785,17.6556,505
+Porsche,911 GT3 Touring,2022,Premium,14.9703,18.4653,16.3641,539
+Porsche,911 GT3 Touring,2022,Premium,13.9018,18,15.7504,570
+Toyota,GR 86,2022,Premium,21.3101,30.6597,24.6995,360
+Toyota,GR 86,2022,Premium,19.6715,26.9573,22.3953,396
+Mercedes-Benz,AMG A35 4matic,2022,Premium,21.824,29.9076,24.846,356
+Acura,TLX AWD,2022,Premium,20.9627,29.2741,24.0332,369
+Acura,TLX FWD,2022,Premium,21.9668,30.7269,25.1998,352
+Acura,TLX AWD A-SPEC,2022,Premium,20.8906,29.0199,23.9039,371
+Acura,TLX FWD A-SPEC,2022,Premium,21.7524,30.034,24.8339,357
+Acura,TLX Type-S,2022,Premium,19,25,21,420
+Acura,TLX Type-S Perf Tire,2022,Premium,19.0736,24,21.3581,421
+Mercedes-Benz,CLS450 4matic,2022,Premium,21.9668,29.5278,24.8277,357
+Volkswagen,Jetta,2022,Regular,29.4194,42.8916,34.2622,259
+Mercedes-Benz,E450 4matic,2022,Premium,22.6076,30.034,25.4381,348
+Mercedes-Benz,AMG GLA35 4matic,2022,Premium,22.0382,29.6545,24.9181,355
+Mercedes-Benz,E450 4matic All-Terrain (wagon),2022,Premium,21.3224,28.3824,24.01,368
+Chevrolet,Silverado 2WD,2022,Gasoline or E85,14.9703,19,16,555
+GMC,Sierra 2WD,2022,Gasoline or E85,14.9703,19,16,555
+Chevrolet,Silverado Mud Terrain Tires 4WD,2022,Gasoline or E85,13.5178,16,15.2411,610
+Chevrolet,Silverado Mud Terrain Tires 4WD,2022,Regular,14.0052,16.8796,15.1675,585
+Chevrolet,Silverado Mud Terrain Tires 4WD,2022,Regular,16.0289,18,17,522
+Chevrolet,Silverado 4WD,2022,Regular,14.6287,18.9604,16.305,545
+Chevrolet,Silverado 4WD,2022,Gasoline or E85,14,18,16,555
+GMC,Sierra Mud Terrain Tires 4WD,2022,Gasoline or E85,13.5178,16,15.2411,610
+GMC,Sierra Mud Terrain Tires 4WD,2022,Regular,13.9127,17.6332,15.3723,577
+GMC,Sierra Mud Terrain Tires 4WD,2022,Regular,16.0289,18,17,522
+GMC,Sierra 4WD,2022,Regular,14.6199,18.9934,16.3099,545
+GMC,Sierra 4WD,2022,Gasoline or E85,14,18,16,555
+Mercedes-Benz,GLA250,2022,Premium,23.9483,33.8346,27.5739,321
+Chevrolet,Silverado Cab Chassis 2WD,2022,Regular,13.8194,17.4413,15.2439,583
+Chevrolet,Silverado Cab Chassis 4WD,2022,Regular,13.7229,17.1651,15.0841,589
+GMC,Sierra Cab Chassis 4WD,2022,Regular,13.7229,17.1651,15.0841,589
+Chrysler,Pacifica,2022,Regular,18.9954,28.1266,22.2452,401
+Chrysler,Voyager,2022,Regular,18.9954,28.1266,22.2452,401
+Chrysler,Pacifica AWD,2022,Regular,16.6294,25.1517,19.6212,450
+Lexus,NX 250,2022,Regular,25.5497,32.7237,28.3461,311
+Toyota,Highlander,2022,Regular,19.7311,28.3243,22.8508,389
+Toyota,Highlander,2022,Regular,20.7463,28.7652,23.7222,372
+Toyota,Highlander Hybrid,2022,Regular,36.2409,35.4023,35.8587,245
+Jaguar,F-Pace SVR,2022,Premium,15.1979,21.3781,17.4707,509
+Lexus,NX 250 AWD,2022,Regular,25,31.9782,28.0909,318
+Lexus,NX 350h AWD,2022,Premium,41.3984,37.4192,39,225
+Mercedes-Benz,GLA250 4matic,2022,Premium,22.8204,32.1028,26.2338,337
+Toyota,Highlander AWD,2022,Regular,20.051,27.4181,22.8089,387
+Cadillac,Escalade 2WD,2022,Premium,14.256,19.4728,16.2102,548
+Chevrolet,Tahoe 2WD,2022,Regular,14.7201,19.7915,16.6387,534
+Chevrolet,Suburban 2WD,2022,Regular,14.7201,19.7915,16.6387,534
+Chevrolet,Tahoe 2WD,2022,Premium,14.4373,19.6951,16.4085,542
+Chevrolet,Suburban 2WD,2022,Premium,14.4373,19.6951,16.4085,542
+GMC,Yukon 2WD,2022,Regular,14.7201,19.7915,16.6387,534
+GMC,Yukon 2WD,2022,Premium,14.4373,19.6951,16.4085,542
+GMC,Yukon XL 2WD,2022,Premium,13.9018,19.0369,15.8224,562
+Cadillac,Escalade 4WD,2022,Premium,13.8251,18.5851,15.6261,568
+Chevrolet,Suburban 4WD,2022,Regular,13.8279,18.5762,15.6252,569
+Chevrolet,Tahoe 4WD,2022,Premium,13.8251,18.5851,15.6261,568
+Chevrolet,Suburban 4WD,2022,Premium,13.8251,18.5851,15.6261,568
+GMC,Yukon XL 4WD,2022,Regular,13.8279,18.5762,15.6252,569
+GMC,Yukon 4WD,2022,Regular,14,19.3243,16.3584,556
+GMC,Yukon XL 4WD,2022,Premium,13.8251,18.5851,15.6261,568
+GMC,Yukon 4WD,2022,Premium,13.8251,18.5851,15.6261,568
+Jeep,Grand Cherokee 4WD,2022,Midgrade,14.0551,21.6461,16.6887,533
+Mercedes-Benz,AMG GLE53 4matic Plus,2022,Premium,17.5986,22.2474,19.4252,455
+Porsche,Cayenne / Cayenne Coupe,2022,Premium,17,22,19,466
+Porsche,Cayenne S,2022,Premium,16,22.1807,18,494
+Porsche,Cayenne S Coupe,2022,Premium,16.3295,21.0424,18.1598,490
+Porsche,Cayenne Turbo,2022,Premium,14,19,16,553
+Porsche,Cayenne Turbo GT Coupe,2022,Premium,14,19,16,555
+Porsche,Cayenne Turbo Coupe,2022,Premium,14.8182,19.6238,16.6534,531
+Porsche,Cayenne GTS,2022,Premium,14.8943,19.1479,16.5486,533
+Porsche,Cayenne GTS Coupe,2022,Premium,15.4251,19,17.2276,525
+Toyota,Highlander Hybrid AWD LTD/PLAT,2022,Regular,35.4652,34,35.0276,253
+Toyota,Highlander Hybrid AWD,2022,Regular,35.1424,34.7889,34.9824,254
+Lexus,LC 500 Convertible,2022,Premium,14.7421,24.8323,18.0409,489
+Lexus,LC 500,2022,Premium,15.5764,24.5623,18.6461,473
+Lexus,LC 500h,2022,Premium,26.2901,33.5424,29.1237,303
+Mercedes-Benz,E450 Coupe,2022,Premium,21.9668,29.0199,24.6643,360
+Mercedes-Benz,E450 4matic Coupe,2022,Premium,21.4659,29.5278,24.4727,362
+Mercedes-Benz,E450 Convertible,2022,Premium,22.0382,28.7015,24.6092,360
+Mercedes-Benz,E450 4matic Convertible,2022,Premium,21.6093,29.1471,24.4553,362
+Jaguar,XF P250,2022,Premium,24.9259,33.1568,28.0605,317
+Jaguar,XF P250 AWD,2022,Premium,23.1035,32.0405,26.4196,336
+Jaguar,XF P300 AWD,2022,Premium,22.1096,30.4753,25.2257,352
+Mercedes-Benz,E350 4matic,2022,Premium,21.1786,28.8991,24.0726,366
+Volkswagen,Golf-R,2022,Premium,22.7957,30.4866,25.7149,343
+Volkswagen,Golf-R,2022,Premium,19.9342,28.4434,23.0353,382
+GMC,Sierra Cab Chassis 2WD,2022,Regular,13.8194,17.4413,15.2439,583
+Lincoln,Nautilus FWD,2022,Regular,20.6019,26,23,384
+Lincoln,Nautilus FWD,2022,Regular,20.5296,26,23.4491,387
+Mercedes-Benz,GLC300,2022,Premium,21.5376,26.9235,23.6682,373
+Fiat,500X AWD,2022,Regular,23.5258,30,26.3917,356
+Ford,Edge AWD,2022,Regular,20.5296,28.3185,23.4295,380
+Ford,Edge AWD,2022,Regular,20.127,27.5354,22.8995,388
+Ford,Edge AWD,2022,Regular,18.5678,25.1069,21.0329,423
+Honda,Pilot AWD TrailSport,2022,Regular,19.0736,24.759,21.2717,419
+Jaguar,F-Pace,2022,Premium,21.8954,26.6469,23.8056,365
+Land Rover,Range Rover Velar,2022,Premium,20.3848,26.1286,22.6227,393
+Lincoln,Nautilus AWD,2022,Regular,20,25,22,404
+Lincoln,Nautilus AWD,2022,Regular,20.127,25,22,404
+Lincoln,Nautilus AWD,2022,Regular,18.5678,25.1069,21.0329,423
+Mercedes-Benz,GLC300 4matic,2022,Premium,21.0347,27.5938,23.5542,374
+Mercedes-Benz,GLC300 4matic Coupe,2022,Premium,20.8185,26.59,23.0721,383
+GMC,Yukon XL 2WD,2022,Regular,14.7201,19.7915,16.6387,534
+Chevrolet,Silverado 2WD,2022,Regular,15.5902,20.8802,17.5963,505
+Chevrolet,Silverado 2WD,2022,Regular,18.8536,22.1101,20.1919,441
+Chevrolet,Silverado 2WD,2022,Regular,18.8536,22.1101,20.1919,441
+Chevrolet,Silverado 2WD,2022,Regular,15.7871,20.7943,17.7057,502
+GMC,Sierra 2WD,2022,Regular,15.5744,20.8528,17.5765,506
+GMC,Sierra 2WD,2022,Regular,18.8536,22.1101,20.1919,441
+GMC,Sierra 2WD,2022,Regular,18.8536,22.1101,20.1919,441
+GMC,Sierra 2WD,2022,Regular,15.7445,20.748,17.6611,503
+Chevrolet,Silverado 4WD,2022,Regular,15.1081,20.0469,16.9919,522
+Chevrolet,Silverado Mud Terrain Tires 4WD,2022,Premium,12.935,16.5705,14.3519,619
+Chevrolet,Silverado 4WD,2022,Premium,14.1316,19.1492,16.0206,555
+Chevrolet,Silverado Mud Terrain Tires 4WD,2022,Premium,14.286,17.8552,15.6981,566
+Chevrolet,Silverado 4WD,2022,Premium,14,18,16,555
+Chevrolet,Silverado 4WD,2022,Premium,14.9703,19.7906,16.8131,529
+Chevrolet,Silverado 4WD,2022,Regular,15.2589,19.8675,17.0373,521
+Chevrolet,Silverado 4WD,2022,Regular,17.2087,19.7868,18.2805,486
+Chevrolet,Silverado 4WD,2022,Regular,17.1523,19.5837,18.1673,489
+GMC,Sierra 4WD,2022,Regular,15.2569,19.8811,17.0405,521
+GMC,Sierra 4WD,2022,Regular,15.1917,19.8398,16.9821,523
+GMC,Sierra Mud Terrain Tires 4WD,2022,Premium,12.9344,16.5687,14.3509,620
+GMC,Sierra 4WD,2022,Premium,14.1316,19.1492,16.0206,555
+GMC,Sierra Mud Terrain Tires 4WD,2022,Premium,14.2961,17.8659,15.7085,566
+GMC,Sierra 4WD,2022,Premium,14.9703,19.7906,16.8131,529
+GMC,Sierra 4WD,2022,Regular,16.7286,19.9009,18.0213,492
+GMC,Sierra 4WD,2022,Regular,17.1523,19.5837,18.1673,489
+Lexus,NX 350 AWD,2022,Premium,22,29.0076,25.1744,357
+Lexus,NX 350 AWD,2022,Premium,22.4655,28,24.8349,358
+Chevrolet,Tahoe 4WD,2022,Regular,14,19.3243,16.3584,556
+Mercedes-Benz,AMG CLA35 4matic,2022,Premium,21.3224,28.829,24.1524,366
+Volkswagen,Jetta SE/SEL,2022,Regular,29.0816,40.2606,33.2342,268
+Volkswagen,Jetta,2022,Regular,30.6798,41.4873,34.7538,256
+Mercedes-Benz,E350,2022,Premium,22.6786,31.1003,25.8256,342
+Audi,S8,2022,Premium,13.9533,23.1471,16.99,520
+BMW,X1 xDrive28i,2022,Premium,22.7912,30.6628,25.768,343
+Mercedes-Benz,S500 4matic,2022,Premium,20.5296,29.5278,23.7923,372
+Ram,1500 Classic 2WD,2022,Regular,16.9657,24.5951,19.7182,450
+Ram,1500 Classic 2WD,2022,Midgrade,14.7673,21.2432,17.1152,519
+Ram,1500 Classic 4WD,2022,Regular,16.1793,23.1116,18.7039,475
+Ram,1500 Classic 4WD,2022,Midgrade,14.7099,20.5708,16.8732,526
+Acura,RDX FWD,2022,Premium,22.2521,28.2546,24,370
+Acura,RDX FWD A-SPEC,2022,Premium,21.5376,26.8377,23.6383,375
+Acura,RDX AWD,2022,Premium,21.3942,27.4851,23,385
+Acura,RDX AWD A-SPEC,2022,Premium,20.8624,25.8303,22.8391,388
+Porsche,Macan,2022,Premium,19,25.2823,21,424
+Porsche,Macan S,2022,Premium,17,23.2438,19,466
+Porsche,Macan GTS,2022,Premium,17.483,22,19,466
+Jeep,Grand Cherokee L 2WD,2022,Regular,18.8536,25.5432,21.3724,416
+Jeep,Grand Cherokee L 4WD,2022,Regular,18,25.1517,21.0931,430
+Jeep,Grand Cherokee L 4WD,2022,Midgrade,14.0551,21.6461,16.6887,533
+Mercedes-Benz,AMG E53 4matic Plus Coupe,2022,Premium,20.1673,27.9345,23.0516,384
+Mercedes-Benz,AMG E53 4matic Plus Convertible,2022,Premium,19.6583,26.5175,22.248,397
+Mercedes-Benz,AMG GT 53 4matic Plus,2022,Premium,19.1468,24.89,21.3652,415
+Mercedes-Benz,AMG E53 4matic Plus,2022,Premium,20.8906,28.5101,23.7465,373
+Nissan,Altima,2022,Regular,28.0777,38.6671,32.0243,278
+Nissan,Altima SR,2022,Regular,26.9235,36.9949,30.6823,290
+Nissan,Altima AWD,2022,Regular,26,36,30.4241,300
+Nissan,Altima AWD SR/Platinum,2022,Regular,25,35.1555,29,307
+Nissan,Altima SV/SL,2022,Regular,27,37,31,287
+Nissan,Altima SR,2022,Regular,25.4106,33.8035,28.6068,311
+BMW,X1 sDrive28i,2022,Premium,24.228,32.6901,27.4223,324
+Ford,Escape FWD,2022,Regular,27.6039,34.3867,30.2928,293
+Ford,Escape FWD HEV,2022,Regular,43.5064,37.4148,40.5365,220
+Lincoln,Corsair FWD,2022,Regular,21.824,29.4568,24.7046,361
+Ford,Escape AWD HEV,2022,Regular,42.5113,36.8746,39.7753,224
+Ford,Escape AWD,2022,Regular,26.2388,31,28,318
+Ford,Escape AWD,2022,Regular,22.3233,31.1915,25.5984,347
+Ford,Bronco Sport 4WD,2022,Regular,25.2927,28,26,342
+Ford,Bronco Sport 4WD,2022,Regular,21.1786,26,23,387
+Jeep,Renegade 4WD,2022,Regular,23.3153,29,26.0302,347
+Lincoln,Corsair AWD,2022,Regular,21.24,28.9375,24.1282,369
+Lincoln,Corsair AWD,2022,Regular,21.0347,28,24.0852,371
+Ford,Explorer RWD,2022,Regular,17.8951,25.8037,20.7581,428
+Ford,Explorer RWD,2022,Regular,17.6112,25.054,20.3288,437
+Ford,Explorer AWD,2022,Regular,17.5986,24,20.2708,444
+Ford,Explorer HEV AWD,2022,Regular,23.3858,26.0636,24.5194,361
+Ford,Explorer FFV AWD,2022,Gasoline or E85,16.2544,23.5747,18.8946,470
+Ford,Explorer AWD,2022,Regular,17.821,24,20,445
+Chevrolet,Silverado 4WD,2022,Regular,15.3816,19.1676,16.8822,526
+Chevrolet,Silverado Mud Terrain Tires 4WD,2022,Regular,14.2054,16.8217,15.2744,581
+GMC,Sierra 4WD,2022,Regular,15.3002,19.0314,16.7807,529
+Porsche,Panamera Turbo S E-Hybrid/Exec/ST,2022,Premium and Electricity,17.8416,21.6794,19.3859,274
+Mercedes-Benz,AMG GT 43 4matic Plus,2022,Premium,19.1468,24.89,21.3652,415
+Ford,Explorer Platinum HEV RWD,2022,Regular,25.4114,26.3879,25.8417,342
+Ford,Explorer HEV RWD,2022,Regular,26.5745,28.4437,27.3843,324
+Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2022,Premium,17.3012,21.1096,18.8299,470
+Mercedes-Benz,C300 4matic Coupe,2022,Premium,22.0382,31.2023,25.3945,350
+Mercedes-Benz,C300 4matic Convertible,2022,Premium,21.4659,29.5274,24.4725,361
+Honda,Civic 4Dr,2022,Premium,27.4002,37,31.3917,285
+Nissan,Maxima,2022,Premium,20,29.9755,24,370
+Mercedes-Benz,AMG GLB35 4matic,2022,Premium,19.5853,27.0344,22.3575,396
+Nissan,Murano FWD,2022,Regular,20.4845,28,23,387
+Nissan,Murano AWD,2022,Regular,19.6853,28.1252,22.7586,392
+Jeep,Gladiator 4WD,2022,Regular,16.4046,22.5804,18.707,476
+Mercedes-Benz,GLB250,2022,Premium,23.5971,32.1028,26.7914,330
+Jeep,Renegade 2WD,2022,Regular,23.9833,31.7598,26.9531,329
+Jeep,Renegade Trailhawk 4WD,2022,Regular,21.7524,27,24.3076,372
+Mercedes-Benz,GLB250 4matic,2022,Premium,21.6093,29.7811,24.6535,361
+Jeep,Grand Cherokee 2WD,2022,Regular,19.2932,26.0636,21.847,407
+Jeep,Grand Cherokee 4WD,2022,Regular,19.0736,25.5432,21.5272,413
+Mercedes-Benz,C300 Convertible,2022,Premium,20.8906,28.2722,23.6718,373
+Mercedes-Benz,AMG C43 4matic Coupe,2022,Premium,18.7066,27.5494,21.8648,406
+Mercedes-Benz,AMG C43 4matic Convertible,2022,Premium,18.8536,27.8704,22.0661,402
+Lexus,LS 500h AWD,2022,Premium,22,28.5542,24.8833,358
+Lexus,LS 500,2022,Premium,18.4207,28.7799,21.9811,404
+Lexus,LS 500 AWD,2022,Premium,17,27,21.1177,432
+Ford,F150 Pickup 2WD,2022,Regular,19.6422,25.8463,22.0208,404
+Ford,F150 Pickup 2WD FFV,2022,Gasoline or E85,19.3825,24,21,423
+Ford,F150 Pickup 2WD,2022,Regular,18.1177,24.0443,20.378,436
+Ford,F150 Pickup 2WD FFV,2022,Gasoline or E85,17.1743,24,19.8898,444
+Ford,F150 Pickup 2WD,2022,Regular,17,24,20.2316,444
+Ford,F150 Pickup 2WD FFV,2022,Gasoline or E85,16.5766,23.9409,19.2398,461
+Ford,F150 Pickup 4WD,2022,Regular,18.5267,23.6578,20.5305,433
+Ford,F150 Pickup 4WD FFV,2022,Gasoline or E85,18.6452,22,20,444
+Ford,F150 Pickup 4WD,2022,Regular,17.5929,23,19.8543,444
+Ford,F150 Pickup 4WD FFV,2022,Gasoline or E85,16.3711,22,18.7139,468
+Ford,F150 RAPTOR 37 4WD,2022,Regular,14.7421,16.2909,15.401,578
+Ford,F150 Pickup Tremor 4WD,2022,Regular,16.434,19.9271,17.8414,498
+Ford,F150 Pickup 4WD,2022,Regular,17.3797,23.3145,19.6281,453
+Ford,F150 Pickup 4WD,2022,Regular,17.001,23,19.4384,467
+Ford,F150 RAPTOR 4WD,2022,Regular,14.8943,17.8483,16.0929,553
+Ford,F150 RAPTOR 4WD,2022,Regular,14,17.7796,15,593
+Ford,F150 RAPTOR 37 4WD,2022,Regular,14.2081,15.8851,14.9167,596
+Ford,F150 Pickup Tremor 4WD,2022,Regular,16.0584,20.1979,17.6899,503
+Ford,F150 Pickup 4WD FFV,2022,Gasoline or E85,15.9613,22,18.4912,494
+Toyota,Venza AWD,2022,Regular,40.024,36.9896,38.5991,228
+Aston Martin,DB11 V8,2022,Premium,18.1323,24.1217,20.4132,431
+Mercedes-Benz,C300 Coupe,2022,Premium,22.0382,31.2023,25.3945,350
+Nissan,Versa,2022,Regular,31.6955,40.2423,35.0448,254
+Nissan,Versa,2022,Regular,27,35,30,296
+Nissan,Sentra,2022,Regular,29.317,39.42,33.1389,269
+Nissan,Sentra SR,2022,Regular,28,37,32.4152,283
+Mercedes-Benz,S580 4matic Maybach,2022,Premium,15.3495,24.0365,18.3307,484
+Mercedes-Benz,S580 4matic,2022,Premium,16.4046,24.759,19.3415,459
+Toyota,Tundra 2WD,2022,Regular,18.1439,23.4898,20.2141,440
+Toyota,Tundra 2WD,2022,Regular,18.0361,23.6296,20.1864,441
+Jeep,Gladiator 4WD,2022,Regular,17.2268,21.9805,19.0841,466
+Jeep,Gladiator EcoDiesel 4WD,2022,Diesel,21.6809,27.7421,24.0449,423
+Jeep,Gladiator Rubic EcoDiesel 4WD,2022,Diesel,21,27,24.0449,436
+Toyota,Tundra 4WD,2022,Regular,17.4347,22.3531,19.3507,460
+Toyota,Tundra 4WD,2022,Regular,17.3012,22.5804,19.3354,459
+Honda,Passport FWD,2022,Regular,20.2399,25,22,405
+Ford,Bronco Sasquatch 4WD,2022,Regular,16.7421,16.7363,16.7395,531
+Honda,Passport AWD,2022,Regular,19.3663,24.4967,21.3814,416
+Jaguar,F-Pace P340 MHEV,2022,Premium,19.6583,26.5822,22.2684,402
+Jeep,Wrangler 4dr EcoDiesel 4WD,2022,Diesel,22.1093,28.8926,24.7211,411
+Jeep,Wrangler Rubic 4dr EcoDiesel 4WD,2022,Diesel,21,26,23,442
+Jeep,Wrangler 2dr 4WD,2022,Regular,21.9296,24.0029,22.8165,388
+Jeep,Wrangler 2dr 4WD,2022,Regular,19.5853,24.1023,21.3891,416
+Jeep,Wrangler 2dr 4WD,2022,Regular,18.3385,23,20.4192,440
+Jeep,Wrangler 2dr 4WD,2022,Regular,17.2268,24.5615,19.9011,446
+Jeep,Wrangler 4dr 4WD,2022,Regular,21,23.6939,22,404
+Jeep,Wrangler 4dr 4WD,2022,Regular,19.1468,23.7068,20.9611,421
+Jeep,Wrangler 4dr 4WD,2022,Regular,18.1909,23,20.4477,443
+Jeep,Wrangler 4dr 4WD,2022,Regular,17.0031,23.244,19.3398,459
+Jeep,Wrangler 4dr 4WD,2022,Premium,12.7459,16.6758,14.2579,623
+Land Rover,Range Rover Velar P340 MHEV,2022,Premium,19.9494,26.1934,22.3466,399
+Land Rover,Range Rover Velar P400 MHEV,2022,Premium,18.6331,24.5623,20.9038,426
+Mercedes-Benz,AMG GLC43 4matic,2022,Premium,17.9691,25.217,20.6385,430
+Dodge,Durango AWD,2022,Midgrade,14.0551,21.6461,16.6887,533
+Chrysler,Pacifica Hybrid,2022,Regular Gas and Electricity,29.4158,29.6499,29.5207,119
+Ford,Escape FWD PHEV,2022,Regular Gas and Electricity,42.6876,38.083,40.4848,77
+Jeep,Wrangler 4dr 4xe,2022,Regular Gas and Electricity,20.3076,19.8362,20.0927,230
+Lexus,NX 450h Plus AWD,2022,Premium and Electricity,37.5894,33.2748,35.517,87
+Lincoln,Corsair AWD PHEV,2022,Regular Gas and Electricity,34.194,32.2464,33.2892,117
+Aston Martin,Vantage V8,2022,Premium,17.9972,24.4274,20.4155,435
+Aston Martin,DBS,2022,Premium,14.3728,22.0071,17.0315,522
+Aston Martin,DB11 V12,2022,Premium,14.3728,22.0071,17.0315,522
+Alfa Romeo,Giulia,2022,Premium,23.5969,32.63,26.9548,330
+Alfa Romeo,Giulia AWD,2022,Premium,22.5005,30.6012,25.5433,348
+Ford,F150 Pickup 4WD HEV,2022,Regular,23.1589,23,23.3951,386
+Infiniti,QX50,2022,Premium,23.2447,29,26.0025,348
+Nissan,Rogue FWD,2022,Regular,30.1699,37,33.2931,271
+Nissan,Rogue FWD SL/Platinum,2022,Regular,29,36,32,278
+Alfa Romeo,Stelvio AWD,2022,Premium,21.8596,28.4782,24.4128,364
+Audi,Q5 quattro,2022,Premium,22.8204,29.2106,25.3122,349
+Infiniti,QX50 AWD,2022,Premium,22,28,25.3089,366
+Nissan,Rogue AWD,2022,Regular,28,35,31,287
+Nissan,Rogue AWD SL/Platinum,2022,Regular,28,34,31,288
+Aston Martin,DBX V8,2022,Premium,13.9929,19.8022,16.1211,556
+Lamborghini,Aventador Coupe,2022,Premium,8.7766,15.5468,10.9157,802
+Mercedes-Benz,Metris (Passenger Van),2022,Premium,17.6269,22.181,19.4213,453
+Mercedes-Benz,Metris (Cargo Van),2022,Premium,18.711,23.2458,20.5116,430
+Mercedes-Benz,"Metris (Cargo Van, LWB)",2022,Premium,18.711,23.2458,20.5116,430
+Mercedes-Benz,Metris (US Postal Long),2022,Premium,19.5853,24.759,21.6181,410
+Mercedes-Benz,Metris (US Postal),2022,Premium,19.5853,24.759,21.6181,410
+Mazda,CX-9 4WD,2022,Regular,20.3111,26.1409,22.5768,392
+Mercedes-Benz,AMG GLC43 4matic Coupe,2022,Premium,15.9536,24.4967,18.9233,468
+Cadillac,Escalade 2WD,2022,Premium,14.3593,19.325,16.2368,547
+Chevrolet,Tahoe 2WD,2022,Regular,14.9069,20.0033,16.8373,527
+Chevrolet,Suburban 2WD,2022,Regular,14.9069,20.0033,16.8373,527
+Chevrolet,Tahoe 2WD,2022,Premium,14.2845,19.5492,16.2543,547
+Chevrolet,Suburban 2WD,2022,Premium,14.2845,19.5492,16.2543,547
+Ford,Explorer RWD,2022,Regular,21.0347,28,23.8687,370
+Ford,Explorer RWD,2022,Regular,20.1673,27.9345,23.0516,386
+GMC,Yukon 2WD,2022,Regular,14.9069,20.0033,16.8373,527
+GMC,Yukon XL 2WD,2022,Regular,14.9069,20.0033,16.8373,527
+GMC,Yukon 2WD,2022,Premium,14.2845,19.5492,16.2543,547
+GMC,Yukon XL 2WD,2022,Premium,14,18.8857,16.2014,561
+Cadillac,Escalade 4WD,2022,Premium,14.4196,18.5011,16.0089,555
+Chevrolet,Tahoe 4WD,2022,Regular,14.9069,20.0033,16.8373,527
+Chevrolet,Suburban 4WD,2022,Regular,14.8449,19,16,554
+Chevrolet,Tahoe 4WD,2022,Premium,14.4196,18.5011,16.0089,555
+Chevrolet,Suburban 4WD,2022,Premium,14.4196,18.5011,16.0089,555
+Ford,Explorer AWD,2022,Regular,20.3848,27.2277,22.9842,387
+Ford,Explorer Timberline AWD,2022,Regular,19.22,22.3208,20.5017,433
+Ford,Explorer Platinum HEV AWD,2022,Regular,22.962,24.0365,23.4334,379
+Ford,Explorer AWD,2022,Regular,19.5853,26,22.3773,404
+Ford,Explorer Timberline AWD,2022,Regular,18.7801,21.4515,19.895,445
+GMC,Yukon XL 4WD,2022,Regular,14.8449,19,16,554
+GMC,Yukon 4WD,2022,Regular,14.9069,20.0033,16.8373,527
+GMC,Yukon XL 4WD,2022,Premium,14.4196,18.5011,16.0089,555
+GMC,Yukon 4WD,2022,Premium,14.4196,18.5011,16.0089,555
+Ferrari,SF90 Stradale,2022,Premium and Electricity,16.1033,19.7919,17.5775,403
+Toyota,RAV4 Prime 4WD,2022,Regular Gas and Electricity,40.3669,36,38,72
+Toyota,C-HR,2022,Regular,27.0745,31.2658,28.8126,305
+Ford,Ranger 2WD,2022,Regular,21.0347,26,23.3249,387
+Ford,F150 Pickup 2WD HEV,2022,Regular,25.1342,25.1517,25.1421,353
+Ford,Ranger 4WD,2022,Regular,19.8234,24.3484,21.6325,411
+Ford,Ranger Tremor 4WD,2022,Regular,18.927,19.0679,18.9901,468
+Ram,Promaster City,2022,Regular,20.9627,28.4463,23.7776,374
+Toyota,RAV4,2022,Regular,26.7869,34.8146,29.8882,296
+Toyota,RAV4,2022,Regular,27.4768,34.5621,30.2692,292
+Ford,Bronco 4WD,2022,Regular,18.7801,20.4204,19.4844,456
+Ford,Bronco Badlands 4WD,2022,Regular,16.7704,16.8206,16.793,529
+Ford,Bronco 4WD,2022,Regular,19.7145,20.9219,20.2401,439
+Ford,Bronco Black Diamond 4WD,2022,Regular,17,19,18,494
+Ford,Bronco Badlands 4WD,2022,Regular,15.8198,17.4259,16.5043,538
+Ford,Bronco 4WD,2022,Regular,19.5673,21.2881,20.3059,437
+Ford,Bronco Black Diamond 4WD,2022,Regular,18,18,18,493
+Ford,Bronco Sasquatch 4WD,2022,Regular,18.1378,17,18.2052,494
+Ford,Bronco Badlands 4WD,2022,Regular,17.3832,16.8164,17.1235,519
+Ford,Bronco Sasquatch 4WD,2022,Regular,17,18,18,494
+Mazda,CX-5 4WD,2022,Regular,23.9001,29.7886,26.2337,337
+Mazda,CX-5 4WD,2022,Regular,21.7524,27.1633,23.8943,370
+Toyota,RAV4 AWD,2022,Regular,24.7171,32.9713,27.8551,319
+Toyota,RAV4 AWD,2022,Regular,26.7185,33.1568,29.2767,301
+Toyota,RAV4 AWD TRD OFFROAD,2022,Regular,24.8563,31.7289,27.5407,323
+Toyota,RAV4 AWD LE,2022,Regular,27.1279,33.9569,29.8272,296
+Toyota,RAV4 Hybrid AWD,2022,Regular,41,38.2156,40.1868,223
+Lexus,LX 600,2022,Premium,16.5545,21.6461,18.5142,477
+Lamborghini,Aventador Roadster,2022,Premium,8.7766,15.5468,10.9157,802
+Lamborghini,Aventador Countach,2022,Premium,8.8716,16.0988,11.1175,787
+Mazda,MX-5,2022,Premium,26.1701,33.5269,29.0373,305
+Mazda,MX-5,2022,Premium,26.2388,35.4845,29.7239,299
+Mazda,3 4-Door 2WD,2022,Regular,28.0101,35.6666,31.0053,287
+Mazda,3 4-Door 2WD,2022,Regular,26.088,35.2697,29.5497,300
+Mazda,3 4-Door 4WD,2022,Regular,24.7868,32.5998,27.7831,320
+Mazda,3 4-Door 4WD,2022,Regular,23.2447,32.4136,26.6352,334
+Mazda,3 5-Door 2WD,2022,Regular,24.2285,32.8476,27.4724,323
+Mazda,3 5-Door 2WD,2022,Regular,25.9637,34.0802,29.0803,306
+Mazda,3 5-Door 4WD,2022,Regular,24.5777,31.4791,27.2679,326
+Mazda,3 5-Door 4WD,2022,Regular,23.3858,31.2914,26.3856,337
+Nissan,Kicks,2022,Regular,31.0089,35.9638,33.0585,269
+Alfa Romeo,Stelvio,2022,Premium,22,29.1922,25.3266,359
+Dodge,Durango RWD,2022,Regular,18.8533,25.8035,21.4537,414
+Jeep,Grand Cherokee WK 2WD,2022,Regular,18.8533,25.8035,21.4537,414
+Acura,MDX AWD Type-S,2022,Premium,17,21.4883,19.4932,474
+Dodge,Durango AWD,2022,Regular,18.4483,24.5623,20.7754,427
+Jeep,Grand Cherokee WK 4WD,2022,Regular,18.4483,24.5623,20.7754,427
+Acura,NSX Hybrid,2022,Premium,21,21.7131,21,420
+Ford,Mustang,2022,Regular,21.6093,32.2893,25.3881,350
+Ford,Mustang,2022,Regular,20.6759,29.1859,23.7985,373
+Ford,Mustang HO Coupe,2022,Regular,19.7464,26.9052,22.4323,396
+Ford,Mustang,2022,Regular,21.4323,31.8193,25.1227,354
+Ford,Mustang HO Coupe,2022,Regular,20,27,23,386
+Ford,Mustang,2022,Regular,14.6499,23.7296,17.6971,500
+Ford,Mustang,2022,Regular,15.4751,24.3548,18.5124,479
+Ford,Mustang Mach 1,2022,Regular,15.4751,23,18,493
+Ford,Mustang Mach 1,2022,Regular,14.1316,22.4473,16.9587,523
+Ford,Mustang HO Convertible,2022,Regular,19.0736,25,21,423
+Ford,Mustang Convertible,2022,Regular,19.9381,28.4223,23.0319,386
+Ford,Mustang Convertible,2022,Regular,20,27,23,386
+Ford,Mustang Convertible,2022,Regular,19.9038,28.3167,22.9755,386
+Ford,Mustang HO Convertible,2022,Regular,19,26,22,404
+Ford,Mustang Convertible,2022,Regular,15.0468,23.1732,17.8662,497
+Subaru,WRX,2022,Premium,19.1587,26.353,21.842,407
+Subaru,WRX,2022,Premium,18.6012,25.3063,21.1193,419
+Nissan,Rogue Sport AWD,2022,Regular,24,30,27,330
+Nissan,Rogue Sport,2022,Regular,25,32.3515,28,318
+Ford,GT,2022,Premium,11.8716,18.4067,14.1289,632
+Mercedes-Benz,AMG CLA45 4matic,2022,Premium,19.5853,27.8062,22.5908,392
+Dodge,Challenger,2022,Regular,19.0003,30.0971,22.7798,389
+Dodge,Challenger,2022,Midgrade,15.9536,25.0202,19.062,466
+Dodge,Challenger,2022,Premium,15.1221,23.3102,17.9612,494
+Dodge,Challenger,2022,Premium,14.7354,24.4293,17.9386,495
+Dodge,Challenger,2022,Premium,14.0551,22.5138,16.9149,523
+Dodge,Challenger SRT,2022,Premium,13.3461,22.0226,16.2222,546
+Dodge,Challenger SRT,2022,Premium,12.9929,20.5813,15.5775,567
+Dodge,Challenger Widebody,2022,Premium,14.7354,24.4293,17.9386,495
+Dodge,Challenger Widebody,2022,Premium,14.0551,22.5138,16.9149,523
+Dodge,Challenger SRT Widebody,2022,Premium,12.6354,20.6888,15.3188,572
+Dodge,Challenger SRT Widebody,2022,Premium,12.9929,20.5813,15.5775,567
+Dodge,Challenger AWD,2022,Regular,18.3385,26.9053,21.4055,415
+Chrysler,300,2022,Regular,19.0003,30.0971,22.7798,389
+Chrysler,300,2022,Midgrade,15.9536,25.0202,19.062,466
+Chrysler,300 AWD,2022,Regular,18.3385,26.9053,21.4055,415
+Dodge,Charger,2022,Regular,19.0003,30.0971,22.7798,389
+Dodge,Charger,2022,Midgrade,15.9536,25.0202,19.062,466
+Dodge,Charger,2022,Premium,14.7354,24.4293,17.9386,495
+Dodge,Charger SRT Widebody,2022,Premium,12.3581,20.5036,15.0483,592
+Dodge,Charger Widebody,2022,Premium,14.7354,24.4293,17.9386,495
+Dodge,Charger AWD,2022,Regular,18.3385,26.9053,21.4055,415
+Mercedes-Benz,AMG GLA45 4matic,2022,Premium,19.22,25.478,21.6084,409
+Ford,Transit T150 Wagon 4WD FFV,2022,Gasoline or E85,14.1399,18.395,15.7828,563
+Ford,Transit T150 Wagon 2WD FFV,2022,Gasoline or E85,14.7887,19.2981,16.5265,538
+Jeep,Cherokee FWD,2022,Regular,22.6416,31.0679,25.7892,345
+Jeep,Cherokee FWD,2022,Regular,21.7881,31.2287,25.2188,352
+Jeep,Cherokee FWD,2022,Regular,19.7311,28.7628,22.9779,387
+Jaguar,F-Pace P400 MHEV,2022,Premium,19.3663,25.7386,21.7944,408
+Jeep,Cherokee 4WD,2022,Regular,21.0347,29.2741,24.0852,369
+Jeep,Cherokee 4WD,2022,Regular,21.0347,29,24.1812,370
+Jeep,Cherokee 4WD,2022,Regular,19.22,27.3565,22.1899,400
+Jeep,Cherokee Trailhawk 4WD,2022,Regular,18.2644,24,20.6882,432
+Dodge,Durango RWD,2022,Midgrade,14.1316,22.3141,16.9243,525
+Dodge,Durango SRT AWD,2022,Premium,12.8619,19.2495,15.1196,584
+Ford,EcoSport AWD,2022,Regular,22.6532,29.4874,25.2909,351
+Ford,Maverick HEV FWD,2022,Regular,41.6551,33.0943,37.3118,237
+Nissan,Titan 2WD,2022,Premium,15.5764,21.311,17.7224,503
+Nissan,Titan 4WD,2022,Premium,15.4911,21.2283,17.6359,505
+Nissan,Titan 4WD PRO4X,2022,Premium,15.2737,20.4361,17.2326,517
+Mazda,CX-30 4WD,2022,Regular,23.808,30.7269,26.4924,334
+Mazda,CX-30 4WD,2022,Regular,22.3233,29.8301,25.1741,353
+BMW,330e Sedan,2022,Premium and Electricity,25.0289,32.7511,27.9998,160
+BMW,530e Sedan,2022,Premium and Electricity,24.4239,29.4566,26.4581,178
+BMW,530e xDrive Sedan,2022,Premium and Electricity,22.4103,28.1525,24.6751,203
+BMW,X5 xDrive45e,2022,Premium and Electricity,19.2381,22.0961,20.4271,178
+Porsche,911 Carrera GTS,2022,Premium,17.3756,24,20.0298,444
+Porsche,911 Carrera 4 GTS,2022,Premium,17,23.3764,19,464
+Porsche,911 Carrera 4 GTS,2022,Premium,17.0031,23,19,465
+Porsche,911 Carrera 4 GTS Cabriolet,2022,Premium,17.2268,22,19.3493,463
+Porsche,911 Carrera 4 GTS Cabriolet,2022,Premium,16,23,19.3637,477
+Porsche,911 Targa 4 GTS,2022,Premium,17.3012,22,19.3573,461
+Porsche,911 Targa 4 GTS,2022,Premium,16,23,19.3637,477
+Volkswagen,Arteon,2022,Premium,24.1741,33.853,27.7436,318
+Volkswagen,Arteon 4motion,2022,Premium,22.0915,29.7803,24.9956,353
+Chevrolet,Silverado 4WD ZR2,2022,Premium,14.0551,16.6896,15.1298,588
+Porsche,Cayenne,2022,Premium,17,22,19,466
+BMW,330e xDrive Sedan,2022,Premium and Electricity,22.0569,29.8096,24.9804,192
+BMW,745e xDrive,2022,Premium and Electricity,19.2824,25.9409,21.8005,245
+Jeep,Grand Cherokee 4xe,2022,Regular Gas and Electricity,22.8474,24.299,23.4786,177
+Ford,Expedition 2WD,2022,Regular,16.779,23.3764,19.22,462
+Ford,Expedition 2WD,2022,Regular,16.2544,23,18.9704,468
+Lincoln,Navigator 2WD,2022,Regular,16.779,23.3764,19.22,462
+Ford,Expedition 4WD,2022,Regular,16.0499,22.3042,18.3676,484
+Ford,Expedition 4WD,2022,Regular,15.6436,21,18.1711,494
+Ford,Expedition Timberline AWD,2022,Regular,15.4251,19,17.3817,523
+Ford,Expedition Timberline AWD,2022,Regular,16.1793,19,17,523
+Lincoln,Navigator 4WD,2022,Regular,15.5008,21.846800000000002,17.8317,498
+Chevrolet,Silverado 2WD,2022,Regular,16.3493,20.8687,18.1146,489
+Chevrolet,Silverado 2WD,2022,Regular,16.4355,21.0746,18.2426,484
+GMC,Sierra 2WD,2022,Regular,16.3192,20.7973,18.0701,491
+GMC,Sierra 2WD,2022,Regular,16.4355,21.0746,18.2426,484
+Chevrolet,Silverado Mud Terrain Tires 4WD,2022,Regular,13,17,15,593
+Chevrolet,Silverado 4WD,2022,Regular,14,19,16,555
+Chevrolet,Silverado 4WD,2022,Regular,14,19,16,556
+Chevrolet,Silverado 4WD,2022,Regular,16.0293,19.8665,17.5551,506
+Chevrolet,Silverado Mud Terrain Tires 4WD,2022,Regular,13.9127,17.6332,15.3723,577
+GMC,Sierra Mud Terrain Tires 4WD,2022,Regular,13,17,15,592
+GMC,Sierra 4WD,2022,Regular,14,19,16,555
+GMC,Sierra 4WD,2022,Regular,14.4003,19,16.4737,550
+GMC,Sierra 4WD,2022,Regular,15.7968,19.6694,17.3324,513
+GMC,Sierra Mud Terrain Tires 4WD,2022,Regular,14.2288,16.8504,15.3,580
+Chevrolet,Silverado Cab Chassis 4WD,2022,Regular,13,17,15.4602,611
+Chevrolet,Silverado Cab Chassis 2WD,2022,Regular,15.4071,18.2468,16.5673,536
+Chevrolet,Silverado Cab Chassis 4WD,2022,Regular,15.0738,17.3245,16.0098,555
+GMC,Sierra Cab Chassis 4WD,2022,Regular,13,17,15.4602,611
+GMC,Sierra Cab Chassis 2WD,2022,Regular,15.4071,18.2468,16.5673,536
+GMC,Sierra Cab Chassis 4WD,2022,Regular,15.0738,17.3245,16.0098,555
+Ferrari,SF90 Spider,2022,Premium and Electricity,16.1,18.6,17.1365,413
+Porsche,911 Carrera GTS,2022,Premium,17,23.3764,19,465
+Porsche,911 Carrera GTS Cabriolet,2022,Premium,17,23,19,465
+Porsche,911 Carrera GTS Cabriolet,2022,Premium,17,24.341,20.1855,448
+McLaren Automotive,765LT Spider,2022,Premium,14.0709,18.0666,15.6261,565
+McLaren Automotive,GT,2022,Premium,15.1572,22.088,17.6493,504
+Chevrolet,Silverado 4WD,2022,Diesel,21.6093,26,23,443
+Volvo,S60 T8 AWD Recharge ext. Range,2022,Premium and Electricity,29.5533,32.5998,30.8507,99
+Volvo,S90 T8 AWD Recharge ext. Range,2022,Premium and Electricity,27.8072,30.9781,29.1499,110
+Volvo,V60 T8 AWD Recharge ext. Range,2022,Premium and Electricity,29.5533,32.5998,30.8507,99
+Volvo,XC60 T8 AWD Recharge ext. Range,2022,Premium and Electricity,27.6039,27.8062,27.6946,122
+Volvo,XC90 T8 AWD Recharge ext. Range,2022,Premium and Electricity,25.4806,27.4851,26.3452,131
+Ford,Ranger 2WD,2022,Regular,19.8039,26.3879,22.3087,397
+Toyota,Tundra 2WD,2022,Regular,20.0526,23.6745,21.5352,410
+Ford,Ranger 4WD,2022,Regular,19.0736,24.3654,21.1396,420
+Toyota,Tundra 4WD,2022,Regular,18.5595,22.3807,20.1041,441
+Toyota,Tundra 4WD PRO,2022,Regular,18.2647,20.301,19.1281,461
+Land Rover,New Range Rover P360 MHEV,2022,Premium,18.0431,25.9337,20.9054,427
+Land Rover,New Range Rover P400 MHEV,2022,Premium,18.0431,25.9337,20.9054,427
+Land Rover,New Range Rover P400 LWB MHEV,2022,Premium,18.0431,25.9337,20.9054,427
+Land Rover,New Range Rover P360 LWB MHEV,2022,Premium,18.0431,25.9337,20.9054,427
+Mercedes-Benz,GLE450 4matic,2022,Premium,20.3124,25.8687,22.4858,394
+Audi,RS 3,2022,Premium,19.5815,29.0866,22.9575,383
+Land Rover,New Range Rover,2022,Premium,15.6027,21.1145,17.6795,508
+Land Rover,New Range Rover LWB,2022,Premium,15.5222,21.3011,17.6807,505
+Bentley,Flying Spur Hybrid,2022,Premium and Electricity,17.2268,21.9137,19.0614,251
+Ford,Shelby GT500 Mustang,2022,Premium,11.795,18.4683,14.0853,631
+Jeep,Grand Wagoneer 2WD,2022,Premium,14.8943,20.7038,17.0468,521
+Jeep,Grand Wagoneer 4WD,2022,Premium,14.4373,19.9966,16.5018,537
+Mercedes-Benz,C300,2022,Premium,25.4114,35.2413,29.0588,305
+Mercedes-Benz,C300 4matic,2022,Premium,23.3153,32.8476,26.8174,330
+Ford,Bronco Raptor 4WD,2022,Regular,14.9703,15.8555,15.3561,577
+Mercedes-Benz,AMG SL63 4matic Plus,2022,Premium,13.7484,20.8405,16.2345,546
+Mercedes-Benz,AMG SL55 4matic Plus,2022,Premium,13.7484,20.8405,16.2345,546
+Ferrari,296 GTB,2022,Premium and Electricity,15.5,21.9,17.847,398
+Mercedes-Benz,Maybach S680 4matic,2022,Premium,12.0468,20.571,14.8081,599
+Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2022,Premium,14.5136,19.352,16.3535,541
+Mercedes-Benz,AMG GLE63 S 4matic Plus,2022,Premium,14.8182,19.0798,16.474,537
+Mercedes-Benz,AMG GLS63 4matic Plus,2022,Premium,13.7484,18.3284,15.4903,571
+Mercedes-Benz,GLS600 4matic Maybach,2022,Premium,14.4373,20.0305,16.5121,533
+Mercedes-Benz,GLE580 4matic,2022,Premium,16.1793,20.8405,17.9899,492
+Mercedes-Benz,GLS580 4matic,2022,Premium,15.5008,21.3781,17.6892,498
+Mercedes-Benz,G550,2022,Premium,14.4373,17.1597,15.5473,569
+Mercedes-Benz,AMG G63,2022,Premium,12.9007,16.1207,14.1748,624

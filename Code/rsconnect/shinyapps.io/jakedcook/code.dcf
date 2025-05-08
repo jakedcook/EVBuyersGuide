@@ -1,0 +1,12 @@
+name: code
+title: code
+username: jakedcook
+account: jakedcook
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14594119
+bundleId: 10170663
+url: https://jakedcook.shinyapps.io/code/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -51,9 +51,9 @@ View the live dashboard here:
 
 ## 📊 Screenshots
 
-📷 *[Insert map view screenshot]*  
-📷 *[Insert vehicle comparison screenshot]*  
-📷 *[Insert dashboard UI screenshot]*
+📷 *[Graphs/UISnap.png]*
+📷 *[Graphs/gCO2Choropleth.png]*  
+📷 *[Graphs/OregonVehicleComparisson.png]*  
 
 ---
 

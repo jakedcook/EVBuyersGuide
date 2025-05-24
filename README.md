@@ -51,9 +51,9 @@ View the live dashboard here:
 
 ## 📊 Screenshots
 
-📷 ![Landing Page](Graphs/UISnap.png)
-📷 ![Emissions Map](Graphs/gCO2Choropleth.png) 
-📷 ![State Vehicle Comparissions](Graphs/OregonVehicleComparisson.png)
+**📷 ![Landing Page](Graphs/UISnap.png)
+**📷 ![Emissions Map](Graphs/gCO2Choropleth.png) 
+**📷 ![State Vehicle Comparissions](Graphs/OregonVehicleComparisson.png)
 
 ---
 
